@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsFSMsubsetRequiresDifferentName.ecore">
+  <UML2:Class name="StateMachine"/>
+  <UML2:Property name="srcTransition"/>
+  <UML2:Property name="stateMachine"/>
+  <UML2:Property name="transition"/>
+  <UML2:Association name="stateMachinetransition"/>
+  <UML2:Property name="state"/>
+  <UML2:Property name="dstTransition"/>
+  <UML2:Property name="name"/>
+  <UML2:Association name="srcTransitionassociationStateStatesrc"/>
+  <UML2:Class name="RootFolder"/>
+  <UML2:Property name="rootFolder"/>
+  <UML2:Property name="associationStateStatedst"/>
+  <UML2:Class name="State"/>
+  <UML2:Association name="dstTransitionassociationStateStatedst"/>
+  <UML2:Class name="MgaObject"/>
+  <UML2:Property name="associationStateState"/>
+  <UML2:Property name="transition"/>
+  <UML2:Property name="stateMachine"/>
+  <UML2:PrimitiveType name="EString"/>
+  <UML2:PrimitiveType name="EInt"/>
+  <UML2:Class name="Transition"/>
+  <UML2:Property name="rootFolders"/>
+  <UML2:Property name="name"/>
+  <UML2:Property name="stateMachine"/>
+  <UML2:Package name="FSM"/>
+  <UML2:Association name="associationStateStatetransition"/>
+  <UML2:Association name="rootFolderstateMachine"/>
+  <UML2:Property name="position"/>
+  <UML2:Association name="stateMachinestate"/>
+  <UML2:Property name="associationStateStatesrc"/>
+  <UML2:Class name="AssociationStateState"/>
+  <UML2:PrimitiveType name="EBoolean"/>
+</xmi:XMI>

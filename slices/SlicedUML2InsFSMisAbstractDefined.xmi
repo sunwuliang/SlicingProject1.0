@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsFSMisAbstractDefined.ecore">
+  <UML2:Association/>
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:Association/>
+  <UML2:Association/>
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:PrimitiveType/>
+  <UML2:Class/>
+  <UML2:Association/>
+  <UML2:PrimitiveType/>
+  <UML2:Association/>
+  <UML2:Class/>
+  <UML2:PrimitiveType/>
+  <UML2:Association/>
+</xmi:XMI>

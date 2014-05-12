@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsER2MOFmustBeOwnedHasOwner.ecore">
+  <UML2:Class/>
+  <UML2:Operation/>
+  <UML2:Property owner="#/27"/>
+  <UML2:Property owner="#/33"/>
+  <UML2:Property owner="#/15"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/39"/>
+  <UML2:Property owner="#/135"/>
+  <UML2:Property owner="#/32"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:PrimitiveType/>
+  <UML2:Property owner="#/33"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/58"/>
+  <UML2:Property owner="#/128"/>
+  <UML2:Operation/>
+  <UML2:Property owner="#/51"/>
+  <UML2:Property owner="#/30"/>
+  <UML2:Property owner="#/32"/>
+  <UML2:Property owner="#/67"/>
+  <UML2:Property owner="#/33"/>
+  <UML2:Class/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/82"/>
+  <UML2:Property owner="#/39"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/32"/>
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:Property owner="#/0"/>
+  <UML2:Property owner="#/44"/>
+  <UML2:Property owner="#/39"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/24"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/15"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Class/>
+  <UML2:Operation/>
+  <UML2:Property owner="#/30"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/30"/>
+  <UML2:Property owner="#/135"/>
+  <UML2:Property owner="#/132"/>
+  <UML2:Class/>
+  <UML2:Operation/>
+  <UML2:Property owner="#/51"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Parameter/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/139"/>
+  <UML2:Class/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/7"/>
+  <UML2:Operation/>
+  <UML2:Property owner="#/24"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/135"/>
+  <UML2:Property owner="#/7"/>
+  <UML2:Class/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/0"/>
+  <UML2:Property owner="#/7"/>
+  <UML2:Parameter/>
+  <UML2:Property owner="#/44"/>
+  <UML2:PrimitiveType/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Parameter/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/139"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/33"/>
+  <UML2:Property owner="#/135"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/58"/>
+  <UML2:Property owner="#/58"/>
+  <UML2:Property owner="#/51"/>
+  <UML2:Property owner="#/33"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/58"/>
+  <UML2:Parameter/>
+  <UML2:Property owner="#/128"/>
+  <UML2:Property owner="#/27"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/27"/>
+  <UML2:Property owner="#/128"/>
+  <UML2:Property owner="#/128"/>
+  <UML2:PrimitiveType/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/132"/>
+  <UML2:Property owner="#/44"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/32"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/132"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Operation/>
+  <UML2:Property owner="#/39"/>
+  <UML2:Property owner="#/82"/>
+  <UML2:Property owner="#/82"/>
+  <UML2:Property owner="#/0"/>
+  <UML2:Property owner="#/33"/>
+  <UML2:Parameter/>
+  <UML2:Property owner="#/135"/>
+  <UML2:Property owner="#/128"/>
+  <UML2:Parameter/>
+  <UML2:Property owner="#/139"/>
+  <UML2:Property owner="#/33"/>
+  <UML2:Property owner="#/39"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Property owner="#/128"/>
+  <UML2:Property owner="#/0"/>
+  <UML2:Package/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Association owner="#/125"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/51"/>
+  <UML2:Property owner="#/15"/>
+  <UML2:Property owner="#/39"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/7"/>
+  <UML2:Property owner="#/82"/>
+  <UML2:Class/>
+  <UML2:Parameter/>
+  <UML2:Operation/>
+  <UML2:Property owner="#/27"/>
+  <UML2:Class/>
+  <UML2:Parameter/>
+  <UML2:Property owner="#/128"/>
+</xmi:XMI>

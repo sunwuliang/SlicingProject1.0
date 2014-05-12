@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsFSMmustBeOwnedHasOwner.ecore">
+  <UML2:Property owner="#/4"/>
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:Property owner="#/1"/>
+  <UML2:Class/>
+  <UML2:Property owner="#/1"/>
+  <UML2:Property owner="#/14"/>
+  <UML2:Property owner="#/4"/>
+  <UML2:Association owner="#/26"/>
+  <UML2:Association owner="#/26"/>
+  <UML2:Property owner="#/14"/>
+  <UML2:Property owner="#/4"/>
+  <UML2:Property owner="#/2"/>
+  <UML2:PrimitiveType/>
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:Association owner="#/26"/>
+  <UML2:Property owner="#/16"/>
+  <UML2:Property owner="#/15"/>
+  <UML2:Association owner="#/26"/>
+  <UML2:Property owner="#/2"/>
+  <UML2:PrimitiveType/>
+  <UML2:Property owner="#/1"/>
+  <UML2:Property owner="#/15"/>
+  <UML2:Property owner="#/2"/>
+  <UML2:Package/>
+  <UML2:Association owner="#/26"/>
+  <UML2:PrimitiveType/>
+  <UML2:Property owner="#/15"/>
+  <UML2:Association owner="#/26"/>
+  <UML2:Property owner="#/16"/>
+</xmi:XMI>

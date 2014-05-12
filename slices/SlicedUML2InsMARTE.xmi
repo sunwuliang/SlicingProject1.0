@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsMARTE.ecore">
+  <UML2:Property owner="#/569" name="redefinedInterface" type="#/569"/>
+  <UML2:Class name="Include"/>
+  <UML2:Class name="StructuredClassifier" isAbstract="true"/>
+  <UML2:Association owner="#/907" name="ownedParameteredElementowningTemplateParameter"
+      memberEnd="#/961 #/626"/>
+  <UML2:Parameter name="name" type="#/371"/>
+  <UML2:Property owner="#/109" name="disableConcurrencyServices" type="#/1262"/>
+  <UML2:Property owner="#/802" name="namespace" type="#/208" association="#/544"/>
+  <UML2:Property owner="#/1367" name="redefinedEdge" type="#/1367"/>
+  <UML2:Property owner="#/862" name="max" type="#/648"/>
+  <UML2:Enumeration name="DataTxRateUnitKind"/>
+  <UML2:Class name="UtilityType"/>
+  <UML2:Property owner="#/109" name="activationCapacity" type="#/1444"/>
+  <UML2:Class name="HwProcessor"/>
+  <UML2:Class name="DeployedArtifact" isAbstract="true"/>
+  <UML2:Property owner="#/1162" name="obsKind" type="#/155"/>
+  <UML2:Property owner="#/432" name="base_ExecutionSpecification" type="#/225"/>
+  <UML2:Class name="Comment"/>
+  <UML2:Property owner="#/1064" name="signature" type="#/758" association="#/300"/>
+  <UML2:Property owner="#/991" name="endPoints" type="#/363"/>
+  <UML2:Class name="IdealClock"/>
+  <UML2:Class name="Enumeration"/>
+  <UML2:Class name="ClockType"/>
+  <UML2:Property owner="#/779" name="priority" type="#/750"/>
+  <UML2:Class name="FlowBFeature"/>
+  <UML2:Property owner="#/1281" name="firstEvent" type="#/522"/>
+  <UML2:Property owner="#/836" name="firstEvent" type="#/522"/>
+  <UML2:Class name="Transition"/>
+  <UML2:Property owner="#/183" name="exceptionType" type="#/507"/>
+  <UML2:Property owner="#/1447" name="nbCounter" type="#/1088"/>
+  <UML2:Property owner="#/1471" name="waitingQueueCapacity" type="#/1444"/>
+  <UML2:Property owner="#/1026" name="adressWidth" type="#/768"/>
+  <UML2:Class name="Clock"/>
+  <UML2:Property owner="#/768" name="precision" type="#/908"/>
+  <UML2:Property owner="#/451" name="ownedOperation" type="#/546" association="#/84"/>
+  <UML2:Property owner="#/470" name="after" type="#/1379" association="#/170"/>
+  <UML2:Property owner="#/116" name="isAtomic" type="#/522"/>
+  <UML2:Association owner="#/907" name="superPartitionsubpartition" memberEnd="#/82 #/1018"/>
+  <UML2:PrimitiveType name="EString"/>
+  <UML2:Property owner="#/2" name="ownedAttribute" type="#/745"/>
+  <UML2:Property owner="#/1393" name="featuringClassifier" type="#/507" association="#/587"/>
+  <UML2:Property owner="#/50" name="bound" type="#/1444"/>
+  <UML2:Property owner="#/1477" name="exit" type="#/630"/>
+  <UML2:Property owner="#/758" name="template" type="#/79" association="#/475"/>
+  <UML2:Property owner="#/755" name="ownedTrigger" type="#/943"/>
+  <UML2:Association owner="#/907" name="arbiterscontrolledMedias" memberEnd="#/1101 #/957"/>
+  <UML2:Property owner="#/1179" name="memorySize" type="#/768"/>
+  <UML2:Property owner="#/998" name="context" type="#/914"/>
+  <UML2:Class name="InterruptibleActivityRegion"/>
+  <UML2:Enumeration name="OptimallityCriterionKind"/>
+  <UML2:Property owner="#/1157" name="fitting" type="#/722"/>
+  <UML2:Class name="IntegerInterval"/>
+  <UML2:Property owner="#/79" name="ownedTemplateSignature" type="#/758" association="#/475"/>
+  <UML2:Class name="DeploymentSpecification"/>
+  <UML2:Property owner="#/889" name="base_ConnectableElement" type="#/815"/>
+  <UML2:Class name="NfpType"/>
+  <UML2:Class name="StructuredActivityNode"/>
+  <UML2:Property owner="#/1328" name="isConjugated" type="#/522"/>
+  <UML2:Property owner="#/572" name="messageQueueCapacityElements" type="#/833"/>
+  <UML2:Property owner="#/951" name="value" type="#/648"/>
+  <UML2:Class name="SaAnalysisContext"/>
+  <UML2:Property owner="#/1226" name="isBehavior" type="#/522"/>
+  <UML2:Property owner="#/1423" name="behavDemand" type="#/685"/>
+  <UML2:Property owner="#/1495" name="precision" type="#/908"/>
+  <UML2:Property owner="#/951" name="definingFeature" type="#/776"/>
+  <UML2:Association owner="#/907" name="deploymentconfiguration" memberEnd="#/297 #/217"/>
+  <UML2:Property owner="#/779" name="rep" type="#/730"/>
+  <UML2:Property owner="#/202" name="jitter" type="#/1005"/>
+  <UML2:Property owner="#/666" name="writePolicy" type="#/846"/>
+  <UML2:Property owner="#/546" name="isUnique" type="#/522"/>
+  <UML2:Property owner="#/1178" name="specification" type="#/1262" association="#/479"/>
+  <UML2:Property owner="#/395" name="minEventInterval" type="#/1005"/>
+  <UML2:Property owner="#/1455" name="initialBudget" type="#/1005"/>
+  <UML2:Property owner="#/12" name="ownedISAs" type="#/107"/>
+  <UML2:Association owner="#/907" name="implementingClassifierinterfaceRealization"
+      memberEnd="#/1053 #/1319"/>
+  <UML2:Property owner="#/931" name="usedResources" type="#/889"/>
+  <UML2:Class name="NFP_DateTime"/>
+  <UML2:Property owner="#/55" name="variable" type="#/161" association="#/186"/>
+  <UML2:Class name="MutualExclusionResource"/>
+  <UML2:Property owner="#/139" name="signature" type="#/758"/>
+  <UML2:Class name="TemplateableElement" isAbstract="true"/>
+  <UML2:Property owner="#/1081" name="region" type="#/850" association="#/438"/>
+  <UML2:Property owner="#/437" name="convOffset" type="#/908"/>
+  <UML2:Property owner="#/418" name="superPartition" type="#/418" association="#/36"/>
+  <UML2:Property owner="#/828" name="unit" type="#/1067"/>
+  <UML2:Association owner="#/907" name="ownedOperationclass" memberEnd="#/33 #/514"/>
+  <UML2:Property owner="#/273" name="base_BehavioredClassifier" type="#/755"/>
+  <UML2:Property owner="#/208" name="ownedMember" type="#/802" association="#/544"/>
+  <UML2:Property owner="#/999" name="throughput" type="#/1246"/>
+  <UML2:Class name="RteConnector"/>
+  <UML2:Property owner="#/931" name="subUsage" type="#/931"/>
+  <UML2:Property owner="#/1178" name="context" type="#/755"/>
+  <UML2:Property owner="#/1022" name="deleteServices" type="#/1262"/>
+  <UML2:Property owner="#/952" name="substitutingClassifier" type="#/507" association="#/1112"/>
+  <UML2:Property owner="#/983" name="occurenceCountElements" type="#/833"/>
+  <UML2:Property owner="#/924" name="pooling" type="#/1439"/>
+  <UML2:Property owner="#/1266" name="ISRswitchT" type="#/1005"/>
+  <UML2:Property owner="#/525" name="extendedCase" type="#/1488"/>
+  <UML2:Property owner="#/1266" name="schedUtiliz" type="#/730"/>
+  <UML2:Property owner="#/107" name="inst_Width" type="#/768"/>
+  <UML2:Class name="ElementImport"/>
+  <UML2:Property owner="#/315" name="schSlack" type="#/730"/>
+  <UML2:Property owner="#/77" name="protectKind" type="#/1384"/>
+  <UML2:Enumeration name="DirectionKind"/>
+  <UML2:Property owner="#/54" name="unitAttrib" type="#/745"/>
+  <UML2:Property owner="#/164" name="roleBinding" type="#/1291"/>
+  <UML2:Enumeration name="SourceKind"/>
+  <UML2:Property owner="#/546" name="postcondition" type="#/443"/>
+  <UML2:Class name="HwISA"/>
+  <UML2:Class name="HwComponent"/>
+  <UML2:Class name="SwConcurrentResource" isAbstract="true"/>
+  <UML2:Property owner="#/888" name="aperiodic" type="#/547"/>
+  <UML2:Property owner="#/1091" name="schedPolicy" type="#/767"/>
+  <UML2:Property owner="#/1165" name="base_Property" type="#/745"/>
+  <UML2:Property owner="#/814" name="base_NamedElement" type="#/802"/>
+  <UML2:Property owner="#/745" name="qualifier" type="#/745" association="#/389"/>
+  <UML2:Property owner="#/108" name="staticDissipation" type="#/1106"/>
+  <UML2:Class name="FlowPort"/>
+  <UML2:Property owner="#/1488" name="include" type="#/1" association="#/601"/>
+  <UML2:Class name="HwClock"/>
+  <UML2:Property owner="#/1235" name="unit" type="#/9"/>
+  <UML2:Class name="Relationship" isAbstract="true"/>
+  <UML2:Property owner="#/924" name="server" type="#/1455"/>
+  <UML2:Property owner="#/109" name="suspendServices" type="#/1262"/>
+  <UML2:Class name="MARTE_DataTypes_Interval"/>
+  <UML2:DataType owner="#/907" name="ClockedValueSpecification"/>
+  <UML2:Property owner="#/535" name="packetT" type="#/1005"/>
+  <UML2:Class name="PaCommStep"/>
+  <UML2:Class name="IntegerVector"/>
+  <UML2:Property owner="#/1423" name="extOpCount" type="#/730"/>
+  <UML2:Property owner="#/1080" name="nbRows" type="#/750"/>
+  <UML2:Property owner="#/1266" name="schSlack" type="#/730"/>
+  <UML2:Class name="Alarm"/>
+  <UML2:Class name="HwBridge"/>
+  <UML2:Class name="Collaboration"/>
+  <UML2:Property owner="#/888" name="periodic" type="#/248"/>
+  <UML2:Property owner="#/931" name="energy" type="#/828"/>
+  <UML2:Property owner="#/995" name="duration" type="#/1005"/>
+  <UML2:Property owner="#/1162" name="base_TimeObservation" type="#/743"/>
+  <UML2:Property owner="#/949" name="resource" type="#/889"/>
+  <UML2:Class name="TemplateBinding"/>
+  <UML2:Class name="PackageableElement" isAbstract="true"/>
+  <UML2:Property owner="#/12" name="nbPipelines" type="#/1088"/>
+  <UML2:Property owner="#/199" name="location" type="#/371"/>
+  <UML2:Class name="ComputingResource"/>
+  <UML2:Property owner="#/755" name="ownedBehavior" type="#/1178"/>
+  <UML2:Property owner="#/562" name="acqRes" type="#/889"/>
+  <UML2:Property owner="#/55" name="node" type="#/466" association="#/1147"/>
+  <UML2:Class name="SignalSpecification"/>
+  <UML2:Property owner="#/1090" name="every" type="#/648"/>
+  <UML2:Class name="HwComputingResource"/>
+  <UML2:Property owner="#/1184" name="baseType" type="#/1301"/>
+  <UML2:Class name="TimedDurationObservation"/>
+  <UML2:Property owner="#/1355" name="bound" type="#/908"/>
+  <UML2:Property owner="#/998" name="platform" type="#/840"/>
+  <UML2:Property owner="#/1031" name="nbBanks" type="#/1088"/>
+  <UML2:Enumeration name="EventKind"/>
+  <UML2:Property owner="#/1367" name="source" type="#/466" association="#/489"/>
+  <UML2:Class name="InterRepetition"/>
+  <UML2:Property owner="#/535" name="throughput" type="#/1246"/>
+  <UML2:Property owner="#/721" name="unit" type="#/269"/>
+  <UML2:Property owner="#/418" name="edge" type="#/1367" association="#/916"/>
+  <UML2:Class name="Variable"/>
+  <UML2:Property owner="#/108" name="nbPins" type="#/1088"/>
+  <UML2:Enumeration name="ConcurrentAccessProtocolKind"/>
+  <UML2:Class name="CollaborationUse"/>
+  <UML2:Property owner="#/1108" name="selector" type="#/648"/>
+  <UML2:Association owner="#/907" name="interfaceownedOperation" memberEnd="#/1145 #/1254"/>
+  <UML2:Property owner="#/840" name="base_Classifier" type="#/507"/>
+  <UML2:Property owner="#/1282" name="repl_Policy" type="#/740"/>
+  <UML2:Property owner="#/779" name="host" type="#/1388"/>
+  <UML2:Association owner="#/907" name="toBeforeafter" memberEnd="#/1135 #/34"/>
+  <UML2:Class name="ProtocolStateMachine"/>
+  <UML2:Property owner="#/608" name="base_Behavior" type="#/1178"/>
+  <UML2:Association owner="#/907" name="regionstate" memberEnd="#/1228 #/953"/>
+  <UML2:Property owner="#/705" name="event" type="#/802"/>
+  <UML2:Property owner="#/1108" name="interaction" type="#/1118" association="#/831"/>
+  <UML2:Property owner="#/685" name="timing" type="#/1244"/>
+  <UML2:Property owner="#/788" name="isStream" type="#/522"/>
+  <UML2:Property owner="#/88" name="base_Connector" type="#/1364"/>
+  <UML2:Property owner="#/466" name="activity" type="#/913" association="#/700"/>
+  <UML2:Property owner="#/109" name="priorityElements" type="#/833"/>
+  <UML2:Property owner="#/705" name="firstEvent" type="#/522"/>
+  <UML2:Property owner="#/1215" name="miss" type="#/730"/>
+  <UML2:Class name="ExceptionHandler"/>
+  <UML2:Property owner="#/108" name="dimenssions" type="#/1063"/>
+  <UML2:Property owner="#/1276" name="enumeration" type="#/20" association="#/503"/>
+  <UML2:Association owner="#/907" name="variablescope" memberEnd="#/76 #/773"/>
+  <UML2:Property owner="#/395" name="maxInterarrival" type="#/1005"/>
+  <UML2:Property owner="#/109" name="messageResources" type="#/833"/>
+  <UML2:Property owner="#/560" name="schSlack" type="#/730"/>
+  <UML2:Enumeration name="TransitionKind"/>
+  <UML2:Property owner="#/569" name="ownedAttribute" type="#/745"/>
+  <UML2:Property owner="#/507" name="useCase" type="#/1488" association="#/254"/>
+  <UML2:Property owner="#/446" name="message" type="#/313"/>
+  <UML2:Property owner="#/787" name="icon" type="#/199"/>
+  <UML2:Class name="HwASIC"/>
+  <UML2:Class name="rtf"/>
+  <UML2:Property owner="#/1333" name="enclosingInteraction" type="#/1118" association="#/737"/>
+  <UML2:Property owner="#/525" name="extension" type="#/1488" association="#/618"/>
+  <UML2:Class name="Image"/>
+  <UML2:Property owner="#/788" name="defaultValue" type="#/648"/>
+  <UML2:Property owner="#/247" name="connection" type="#/1477" association="#/803"/>
+  <UML2:Class name="SporadicPattern"/>
+  <UML2:Property owner="#/147" name="kind" type="#/660"/>
+  <UML2:Property owner="#/116" name="base_Port" type="#/1226"/>
+  <UML2:Property owner="#/844" name="base_Constraint" type="#/443"/>
+  <UML2:Property owner="#/1496" name="concPolicy" type="#/1121"/>
+  <UML2:Property owner="#/666" name="isSynchronous" type="#/457"/>
+  <UML2:Class name="Namespace" isAbstract="true"/>
+  <UML2:Enumeration name="NotificationKind"/>
+  <UML2:Property owner="#/313" name="connector" type="#/1364"/>
+  <UML2:Class name="CacheStructure"/>
+  <UML2:Property owner="#/99" name="visibility" type="#/352"/>
+  <UML2:Property owner="#/807" name="timeScliceElements" type="#/833"/>
+  <UML2:Class name="TimedValueSpecification"/>
+  <UML2:Property owner="#/888" name="irregular" type="#/246"/>
+  <UML2:Property owner="#/1104" name="classifier" type="#/507"/>
+  <UML2:Property owner="#/739" name="configuration" type="#/52" association="#/64"/>
+  <UML2:Association owner="#/907" name="clientDependencyclient" memberEnd="#/973 #/860"/>
+  <UML2:Property owner="#/1388" name="commTxOch" type="#/1005"/>
+  <UML2:Property owner="#/1413" name="blockT" type="#/1005"/>
+  <UML2:Property owner="#/688" name="output" type="#/1285"/>
+  <UML2:Property owner="#/77" name="ceiling" type="#/1444"/>
+  <UML2:Parameter name="upper" type="#/1361"/>
+  <UML2:Class name="DeviceResource"/>
+  <UML2:Class name="ExecutionSpecification" isAbstract="true"/>
+  <UML2:Property owner="#/247" name="stateInvariant" type="#/443"/>
+  <UML2:Property owner="#/1496" name="isAtomic" type="#/522"/>
+  <UML2:Property owner="#/12" name="nbFBUs" type="#/1088"/>
+  <UML2:Property owner="#/247" name="entry" type="#/1178"/>
+  <UML2:Property owner="#/525" name="extensionLocation" type="#/944"/>
+  <UML2:Property owner="#/1262" name="ownedParameter" type="#/788"/>
+  <UML2:Property owner="#/1473" name="nbEntries" type="#/457"/>
+  <UML2:Enumeration name="QueuePolicyKind"/>
+  <UML2:Property owner="#/688" name="input" type="#/683"/>
+  <UML2:Property owner="#/1076" name="bound" type="#/1088"/>
+  <UML2:Property owner="#/723" name="onPort" type="#/1226"/>
+  <UML2:Property owner="#/1476" name="metamodelReference" type="#/974"/>
+  <UML2:Property owner="#/1230" name="routineDisconnectServices" type="#/1262"/>
+  <UML2:Property owner="#/1299" name="observation" type="#/531"/>
+  <UML2:Class name="SaEnd2EndFlow"/>
+  <UML2:Property owner="#/395" name="minInterarrival" type="#/1005"/>
+  <UML2:Property owner="#/31" name="type" type="#/21"/>
+  <UML2:Property owner="#/466" name="redefinedNode" type="#/466"/>
+  <UML2:Class name="ProtocolConformance"/>
+  <UML2:Property owner="#/313" name="signature" type="#/802"/>
+  <UML2:Class name="IrregularPattern"/>
+  <UML2:Class name="State"/>
+  <UML2:Class name="PeriodicPattern"/>
+  <UML2:Class name="GaRequestedService"/>
+  <UML2:Class name="Event" isAbstract="true"/>
+  <UML2:Property owner="#/1470" name="clock" type="#/371"/>
+  <UML2:Property owner="#/12" name="architecture" type="#/768"/>
+  <UML2:Class name="Generalization"/>
+  <UML2:Association owner="#/907" name="subjectuseCase" memberEnd="#/922 #/192"/>
+  <UML2:Property owner="#/12" name="ipc" type="#/730"/>
+  <UML2:Property owner="#/471" name="host" type="#/905"/>
+  <UML2:Enumeration name="PseudostateKind"/>
+  <UML2:Property owner="#/16" name="body" type="#/371"/>
+  <UML2:Parameter name="lower" type="#/1444"/>
+  <UML2:Property owner="#/437" name="baseUnit" type="#/437"/>
+  <UML2:Property owner="#/568" name="choiceAttrib" type="#/745"/>
+  <UML2:Property owner="#/313" name="messageSort" type="#/513"/>
+  <UML2:Property owner="#/1109" name="applyingPackage" type="#/456" association="#/771"/>
+  <UML2:Property owner="#/838" name="upperBound" type="#/648"/>
+  <UML2:Enumeration name="CacheType"/>
+  <UML2:Property owner="#/313" name="argument" type="#/648"/>
+  <UML2:Property owner="#/77" name="otherProtectProtocol" type="#/371"/>
+  <UML2:Property owner="#/1349" name="routine" type="#/1262"/>
+  <UML2:Enumeration name="TUK"/>
+  <UML2:Property owner="#/685" name="behavior" type="#/685"/>
+  <UML2:Property owner="#/758" name="parameter" type="#/1064"/>
+  <UML2:Property owner="#/1349" name="base_BehavioralFeature" type="#/1262"/>
+  <UML2:Class name="RtUnit"/>
+  <UML2:Property owner="#/211" name="blockSize" type="#/1088"/>
+  <UML2:Property owner="#/471" name="base_NamedElement" type="#/802"/>
+  <UML2:Property owner="#/807" name="delayServices" type="#/1262"/>
+  <UML2:Class name="HwArbiter"/>
+  <UML2:Property owner="#/1161" name="containedNode" type="#/466" association="#/422"/>
+  <UML2:Class name="Array"/>
+  <UML2:Property owner="#/1367" name="interrupts" type="#/47" association="#/1033"/>
+  <UML2:Enumeration name="TimeLibrary_TimeUnitKind"/>
+  <UML2:Class name="Reception"/>
+  <UML2:Property owner="#/1108" name="coveredBy" type="#/1333" association="#/348"/>
+  <UML2:Class name="HwCoolingSupply"/>
+  <UML2:Property owner="#/1246" name="precision" type="#/908"/>
+  <UML2:Class name="GaWorkloadBehavior"/>
+  <UML2:Property owner="#/23" name="kind" type="#/660"/>
+  <UML2:Property owner="#/147" name="base_Interface" type="#/569"/>
+  <UML2:Property owner="#/508" name="content" type="#/371"/>
+  <UML2:Class name="Acquire"/>
+  <UML2:Parameter name="u" type="#/10"/>
+  <UML2:Property owner="#/1103" name="deadline" type="#/1005"/>
+  <UML2:Property owner="#/995" name="isPeriodic" type="#/522"/>
+  <UML2:Property owner="#/109" name="stackSizeElements" type="#/833"/>
+  <UML2:Property owner="#/384" name="stop" type="#/250"/>
+  <UML2:Property owner="#/1473" name="physicalAddrSpace" type="#/768"/>
+  <UML2:Property owner="#/52" name="deployment" type="#/739" association="#/64"/>
+  <UML2:Class name="RtAction"/>
+  <UML2:Property owner="#/1031" name="nbColumns" type="#/1088"/>
+  <UML2:Association owner="#/907" name="signatureownedParameter" memberEnd="#/17 #/388"/>
+  <UML2:Class name="SecondaryScheduler"/>
+  <UML2:Class name="ProcessingResource"/>
+  <UML2:Property owner="#/1283" name="maxint" type="#/648"/>
+  <UML2:Association owner="#/907" name="ownedRulecontext" memberEnd="#/338 #/360"/>
+  <UML2:Property owner="#/1266" name="isSched" type="#/457"/>
+  <UML2:Property owner="#/26" name="redefinedTransition" type="#/26"/>
+  <UML2:Property owner="#/21" name="resolAttrib" type="#/745"/>
+  <UML2:Property owner="#/1423" name="noSynch" type="#/457"/>
+  <UML2:Property owner="#/151" name="base_DurationObservation" type="#/705"/>
+  <UML2:Property owner="#/1317" name="container" type="#/850" association="#/1060"/>
+  <UML2:Property owner="#/678" name="partWithPort" type="#/745"/>
+  <UML2:Property owner="#/684" name="unMapServices" type="#/1262"/>
+  <UML2:Class name="Message"/>
+  <UML2:Class name="DurationInterval"/>
+  <UML2:Class name="SaExecStep"/>
+  <UML2:Property owner="#/643" name="interpretation" type="#/1089"/>
+  <UML2:Property owner="#/171" name="conformance" type="#/244" association="#/497"/>
+  <UML2:Property owner="#/320" name="ownedComment" type="#/16"/>
+  <UML2:Property owner="#/569" name="nestedClassifier" type="#/507"/>
+  <UML2:Class name="Element" isAbstract="true"/>
+  <UML2:Property owner="#/1226" name="required" type="#/569"/>
+  <UML2:Class name="LinkTopology" isAbstract="true"/>
+  <UML2:Property owner="#/802" name="name" type="#/371"/>
+  <UML2:Enumeration name="NotificationResourceKind"/>
+  <UML2:Property owner="#/1349" name="base_Dependency" type="#/1291"/>
+  <UML2:Property owner="#/1005" name="precision" type="#/908"/>
+  <UML2:Property owner="#/684" name="accessPolicy" type="#/1041"/>
+  <UML2:Class name="ClosedPattern"/>
+  <UML2:Property owner="#/1124" name="subExpression" type="#/1124" association="#/554"/>
+  <UML2:Property owner="#/196" name="relDl" type="#/1005"/>
+  <UML2:Property owner="#/591" name="upperValue" type="#/648"/>
+  <UML2:Property owner="#/745" name="datatype" type="#/1301" association="#/1029"/>
+  <UML2:Property owner="#/1473" name="ownedTLBs" type="#/1282"/>
+  <UML2:Property owner="#/1455" name="kind" type="#/1021"/>
+  <UML2:Property owner="#/247" name="isSubmachineState" type="#/522"/>
+  <UML2:Property owner="#/1367" name="weight" type="#/648"/>
+  <UML2:Class name="RtBehavior"/>
+  <UML2:Property owner="#/208" name="ownedRule" type="#/443" association="#/304"/>
+  <UML2:Property owner="#/109" name="mutualExclusionResources" type="#/833"/>
+  <UML2:Property owner="#/1299" name="expr" type="#/648"/>
+  <UML2:Property owner="#/944" name="useCase" type="#/1488" association="#/1371"/>
+  <UML2:Property owner="#/196" name="base_BehavioralFeature" type="#/1262"/>
+  <UML2:Property owner="#/877" name="base_ActivityPartition" type="#/418"/>
+  <UML2:Property owner="#/26" name="kind" type="#/190"/>
+  <UML2:Property owner="#/410" name="isControl" type="#/522"/>
+  <UML2:Property owner="#/108" name="position" type="#/1076"/>
+  <UML2:Property owner="#/2" name="part" type="#/745"/>
+  <UML2:Association owner="#/907" name="coveredBycovered" memberEnd="#/283 #/448"/>
+  <UML2:Property owner="#/983" name="mechanism" type="#/324"/>
+  <UML2:Class name="Association"/>
+  <UML2:Enumeration name="CompnentState"/>
+  <UML2:Enumeration name="VisibilityKind"/>
+  <UML2:Property owner="#/202" name="maxInterarrival" type="#/1005"/>
+  <UML2:Property owner="#/931" name="base_NamedElement" type="#/802"/>
+  <UML2:Property owner="#/591" name="lower" type="#/1444"/>
+  <UML2:Property owner="#/1022" name="memorySizeFootprint" type="#/833"/>
+  <UML2:Property owner="#/558" name="base_Connector" type="#/1364"/>
+  <UML2:Class name="ApplicationAllocationEnd"/>
+  <UML2:Property owner="#/196" name="tRef" type="#/1162"/>
+  <UML2:Property owner="#/443" name="context" type="#/208" association="#/304"/>
+  <UML2:Property owner="#/1230" name="maskElements" type="#/833"/>
+  <UML2:Property owner="#/248" name="period" type="#/1005"/>
+  <UML2:Class name="HwEndPoint"/>
+  <UML2:Property owner="#/183" name="handlerBody" type="#/718"/>
+  <UML2:Property owner="#/743" name="firstEvent" type="#/522"/>
+  <UML2:Property owner="#/521" name="fragment" type="#/1333" association="#/1341"/>
+  <UML2:Property owner="#/1118" name="formalGate" type="#/1146"/>
+  <UML2:Property owner="#/1427" name="suppliedPower" type="#/1106"/>
+  <UML2:Property owner="#/569" name="ownedReception" type="#/282"/>
+  <UML2:Property owner="#/931" name="powerPeak" type="#/1106"/>
+  <UML2:DataType owner="#/907" name="String"/>
+  <UML2:Operation name="le" type="#/522">
+    <ownedParameter href="#/765"/>
+  </UML2:Operation>
+  <UML2:Property owner="#/196" name="base_Action" type="#/688"/>
+  <UML2:Property owner="#/572" name="receiveServices" type="#/1262"/>
+  <UML2:Property owner="#/862" name="min" type="#/648"/>
+  <UML2:Property owner="#/1090" name="base_TimeEvent" type="#/647"/>
+  <UML2:Property owner="#/688" name="localPrecondition" type="#/443"/>
+  <UML2:Property owner="#/889" name="base_Lifeline" type="#/1108"/>
+  <UML2:Property owner="#/1171" name="resUnits" type="#/750"/>
+  <UML2:Property owner="#/913" name="variable" type="#/161" association="#/997"/>
+  <UML2:Association owner="#/907" name="inPartitionnode" memberEnd="#/555 #/1201"/>
+  <UML2:Enumeration name="LengthUnitKind"/>
+  <UML2:Property owner="#/466" name="outgoing" type="#/1367" association="#/489"/>
+  <UML2:Class name="TimedProcessing"/>
+  <UML2:Property owner="#/546" name="bodyCondition" type="#/443"/>
+  <UML2:Class name="Reshape"/>
+  <UML2:Property owner="#/739" name="deployedArtifact" type="#/13"/>
+  <UML2:Property owner="#/758" name="ownedParameter" type="#/1064" association="#/300"/>
+  <UML2:Association owner="#/907" name="associationEndqualifier" memberEnd="#/518 #/114"/>
+  <UML2:Property owner="#/1176" name="writeServices" type="#/1262"/>
+  <UML2:Class name="FlowSpecification"/>
+  <UML2:Enumeration name="ConditionType"/>
+  <UML2:Property owner="#/202" name="minInterarrival" type="#/1005"/>
+  <UML2:Property owner="#/240" name="end2EndD" type="#/1005"/>
+  <UML2:Class name="BurstPattern"/>
+  <UML2:Property owner="#/1471" name="waitingPolicyElements" type="#/833"/>
+  <UML2:Class name="DeploymentTarget" isAbstract="true"/>
+  <UML2:Class name="PackageMerge"/>
+  <UML2:Property owner="#/508" name="base_NamedElement" type="#/802"/>
+  <UML2:Property owner="#/315" name="spareCap" type="#/1005"/>
+  <UML2:Property owner="#/507" name="collaborationUse" type="#/164"/>
+  <UML2:Class name="StorageResource"/>
+  <UML2:Property owner="#/508" name="format" type="#/371"/>
+  <UML2:Property owner="#/1464" name="utilizedElement" type="#/140"/>
+  <UML2:Parameter name="returnType" type="#/502"/>
+  <UML2:Property owner="#/949" name="resUnits" type="#/750"/>
+  <UML2:Property owner="#/161" name="activityScope" type="#/913" association="#/997"/>
+  <UML2:Property owner="#/451" name="isActive" type="#/522"/>
+  <UML2:Property owner="#/418" name="isDimension" type="#/522"/>
+  <UML2:Class name="Pin"/>
+  <UML2:Property owner="#/253" name="isSubstitutable" type="#/522"/>
+  <UML2:Property owner="#/1275" name="toTiler" type="#/790"/>
+  <UML2:Class name="SwAccessService"/>
+  <UML2:Property owner="#/913" name="isReadOnly" type="#/522"/>
+  <UML2:Property owner="#/253" name="specific" type="#/507" association="#/634"/>
+  <UML2:Property owner="#/247" name="submachine" type="#/1081" association="#/912"/>
+  <UML2:Property owner="#/384" name="start" type="#/250"/>
+  <UML2:Class name="ActivityPartition"/>
+  <UML2:Property owner="#/1291" name="supplier" type="#/802"/>
+  <UML2:DataType owner="#/907" name="DateTime"/>
+  <UML2:Parameter name="u" type="#/10"/>
+  <UML2:Association owner="#/907" name="containedNodeinGroup" memberEnd="#/278 #/939"/>
+  <UML2:Property owner="#/320" name="owner" type="#/320" association="#/637"/>
+  <UML2:Property owner="#/23" name="base_BehavioralFeature" type="#/1262"/>
+  <UML2:Property owner="#/12" name="nbStages" type="#/1088"/>
+  <UML2:Property owner="#/983" name="clearServices" type="#/1262"/>
+  <UML2:Property owner="#/1317" name="incoming" type="#/26"/>
+  <UML2:Property owner="#/1447" name="inputClock" type="#/118"/>
+  <UML2:Property owner="#/413" name="isModifier" type="#/522"/>
+  <UML2:Property owner="#/507" name="feature" type="#/1393" association="#/587"/>
+  <UML2:Property owner="#/1455" name="replenishPeriod" type="#/1005"/>
+  <UML2:Class name="GRService"/>
+  <UML2:Property owner="#/859" name="operand" type="#/648"/>
+  <UML2:Property owner="#/1106" name="unit" type="#/1149"/>
+  <UML2:Enumeration name="TimeNatureKind"/>
+  <UML2:Property owner="#/999" name="poolSize" type="#/750"/>
+  <UML2:Class name="Unit"/>
+  <UML2:Association owner="#/907" name="stateMachineregion" memberEnd="#/1346 #/80"/>
+  <UML2:Class name="DirectedRelationship" isAbstract="true"/>
+  <UML2:Property owner="#/684" name="memories" type="#/833"/>
+  <UML2:Class name="HwSupport"/>
+  <UML2:Property owner="#/350" name="isDerived" type="#/522"/>
+  <UML2:Class name="Constraint"/>
+  <UML2:Enumeration name="AllocationNature"/>
+  <UML2:Property owner="#/107" name="family" type="#/914"/>
+  <UML2:Class name="MessageEnd" isAbstract="true"/>
+  <UML2:Property owner="#/1379" name="toAfter" type="#/470" association="#/792"/>
+  <UML2:Property owner="#/1333" name="covered" type="#/1108" association="#/348"/>
+  <UML2:Property owner="#/298" name="msgSize" type="#/768"/>
+  <UML2:Enumeration name="ParameterDirectionKind"/>
+  <UML2:Class name="Class"/>
+  <UML2:Property owner="#/88" name="blockT" type="#/1005"/>
+  <UML2:Property owner="#/838" name="isControlType" type="#/522"/>
+  <UML2:Property owner="#/253" name="generalizationSet" type="#/1430" association="#/1277"/>
+  <UML2:Property owner="#/1109" name="appliedProfile" type="#/1476"/>
+  <UML2:Class name="Package"/>
+  <UML2:Class name="NFP_Boolean"/>
+  <UML2:Property owner="#/350" name="navigableOwnedEnd" type="#/745"/>
+  <UML2:Property owner="#/386" name="repetitonShape" type="#/575"/>
+  <UML2:Property owner="#/363" name="base_Port" type="#/1226"/>
+  <UML2:Property owner="#/1230" name="kind" type="#/1136"/>
+  <UML2:Property owner="#/507" name="redefinedClassifier" type="#/507"/>
+  <UML2:Property owner="#/888" name="burst" type="#/395"/>
+  <UML2:Property owner="#/999" name="utilization" type="#/730"/>
+  <UML2:Property owner="#/641" name="deadline" type="#/1005"/>
+  <UML2:Class name="ActivityNode" isAbstract="true"/>
+  <UML2:Property owner="#/779" name="prob" type="#/730"/>
+  <UML2:Property owner="#/1463" name="concurrentAccessProtocol" type="#/163"/>
+  <UML2:Class name="TimingResource"/>
+  <UML2:Class name="GeneralOrdering"/>
+  <UML2:Class name="PaRunTInstance"/>
+  <UML2:Class name="Signal"/>
+  <UML2:Class name="GaCommStep"/>
+  <UML2:Property owner="#/240" name="end2EndT" type="#/1005"/>
+  <UML2:Association owner="#/907" name="ownedTemplateSignaturetemplate" memberEnd="#/51 #/42"/>
+  <UML2:Property owner="#/109" name="terminateServices" type="#/1262"/>
+  <UML2:Class name="Release"/>
+  <UML2:Property owner="#/745" name="association" type="#/350" association="#/627"/>
+  <UML2:Association owner="#/907" name="methodspecification" memberEnd="#/785 #/69"/>
+  <UML2:Property owner="#/432" name="base_Behavior" type="#/1178"/>
+  <UML2:Property owner="#/1484" name="devices" type="#/833"/>
+  <UML2:Operation name="ge" type="#/522">
+    <ownedParameter href="#/291"/>
+  </UML2:Operation>
+  <UML2:Property owner="#/127" name="vectorElem" type="#/1444"/>
+  <UML2:Property owner="#/685" name="utilization" type="#/730"/>
+  <UML2:Property owner="#/21" name="isLogical" type="#/522"/>
+  <UML2:Property owner="#/1262" name="ownedParameterSet" type="#/1420"/>
+  <UML2:Property owner="#/1108" name="decomposedAs" type="#/892"/>
+  <UML2:Class name="CommunicationEndPoint"/>
+  <UML2:Association owner="#/907" name="outgoingsource" memberEnd="#/383 #/156"/>
+  <UML2:Property owner="#/1091" name="schedule" type="#/501"/>
+  <UML2:Property owner="#/273" name="isDynamic" type="#/522"/>
+  <UML2:Property owner="#/745" name="default" type="#/371"/>
+  <UML2:Property owner="#/249" name="base_Operation" type="#/546"/>
+  <UML2:Property owner="#/12" name="nbALUs" type="#/1088"/>
+  <UML2:Class name="HwMedia"/>
+  <UML2:Property owner="#/350" name="memberEnd" type="#/745" association="#/627"/>
+  <UML2:Association owner="#/907" name="conformancespecificMachine" memberEnd="#/317 #/1203"/>
+  <UML2:Property owner="#/745" name="opposite" type="#/745"/>
+  <UML2:Property owner="#/88" name="bandwidth" type="#/1235"/>
+  <UML2:Property owner="#/1015" name="acquisT" type="#/1005"/>
+  <UML2:Class name="OpaqueExpression"/>
+  <UML2:Class name="Type" isAbstract="true"/>
+  <UML2:Association owner="#/907" name="enumerationownedLiteral" memberEnd="#/185 #/1082"/>
+  <UML2:Property owner="#/1393" name="isStatic" type="#/522"/>
+  <UML2:Property owner="#/1178" name="ownedParameter" type="#/788"/>
+  <UML2:Property owner="#/432" name="base_CollaborationUse" type="#/164"/>
+  <UML2:Class name="Classifier" isAbstract="true"/>
+  <UML2:Class name="GaEventTrace"/>
+  <UML2:Property owner="#/1178" name="ownedParameterSet" type="#/1420"/>
+  <UML2:Property owner="#/31" name="unit" type="#/437"/>
+  <UML2:Property owner="#/525" name="condition" type="#/443"/>
+  <UML2:Property owner="#/888" name="sporadic" type="#/202"/>
+  <UML2:Enumeration name="MessageSort"/>
+  <UML2:Property owner="#/546" name="class" type="#/451" association="#/84"/>
+  <UML2:Property owner="#/1125" name="dir" type="#/696"/>
+  <UML2:Property owner="#/721" name="expr" type="#/124"/>
+  <UML2:Property owner="#/286" name="demand" type="#/710"/>
+  <UML2:Property owner="#/745" name="associationEnd" type="#/745" association="#/389"/>
+  <UML2:Property owner="#/931" name="allocatedMemory" type="#/768"/>
+  <UML2:Property owner="#/1223" name="exit" type="#/1262"/>
+  <UML2:Class name="InteractionOperand"/>
+  <UML2:DataType owner="#/907" name="Boolean"/>
+  <UML2:Property owner="#/1333" name="generalOrdering" type="#/470"/>
+  <UML2:Property owner="#/501" name="behavior" type="#/1178"/>
+  <UML2:Class name="Extend"/>
+  <UML2:Property owner="#/507" name="representation" type="#/164"/>
+  <UML2:Property owner="#/1244" name="stopObs" type="#/743"/>
+  <UML2:Property owner="#/1015" name="isPreemp" type="#/457"/>
+  <UML2:Enumeration name="PoolMgtPolicyKind"/>
+  <UML2:Property owner="#/395" name="maxEventInterval" type="#/1005"/>
+  <UML2:Class name="Observation" isAbstract="true"/>
+  <UML2:Property owner="#/337" name="msgMaxSize" type="#/768"/>
+  <UML2:Property owner="#/885" name="expr" type="#/542"/>
+  <UML2:Association owner="#/907" name="handlerprotectedNode" memberEnd="#/537 #/1382"/>
+  <UML2:Class name="GaCommHost"/>
+  <UML2:Enumeration name="ROM_Type"/>
+  <UML2:Property owner="#/718" name="handler" type="#/183" association="#/534"/>
+  <UML2:Property owner="#/1428" name="ownedOperation" type="#/546"/>
+  <UML2:Property owner="#/54" name="exprAttrib" type="#/745"/>
+  <UML2:Property owner="#/501" name="language" type="#/371"/>
+  <UML2:Property owner="#/1178" name="redefinedBehavior" type="#/1178"/>
+  <UML2:DataType owner="#/907" name="VSL_Expression"/>
+  <UML2:Enumeration name="PLD_Class"/>
+  <UML2:Association owner="#/907" name="ownedMembernamespace" memberEnd="#/86 #/6"/>
+  <UML2:Property owner="#/109" name="shareDataResources" type="#/833"/>
+  <UML2:Class name="Operation"/>
+  <UML2:Class name="AperiodicPattern"/>
+  <UML2:Property owner="#/1118" name="lifeline" type="#/1108" association="#/831"/>
+  <UML2:Class name="HwROM"/>
+  <UML2:Property owner="#/591" name="isOrdered" type="#/522"/>
+  <UML2:Property owner="#/108" name="weight" type="#/730"/>
+  <UML2:Property owner="#/745" name="owningAssociation" type="#/350" association="#/1042"/>
+  <UML2:Property owner="#/562" name="resUnits" type="#/750"/>
+  <UML2:Association owner="#/907" name="owningExpressionsubExpression" memberEnd="#/1229 #/329"/>
+  <UML2:Property owner="#/466" name="inPartition" type="#/418" association="#/381"/>
+  <UML2:Property owner="#/974" name="visibility" type="#/352"/>
+  <UML2:Property owner="#/315" name="delayT" type="#/1005"/>
+  <UML2:Class name="CommunicationMedia"/>
+  <UML2:Property owner="#/1435" name="nature" type="#/444"/>
+  <UML2:Class name="SaCommHost"/>
+  <UML2:Property owner="#/439" name="source" type="#/320"/>
+  <UML2:Class name="GaAcqStep"/>
+  <UML2:Property owner="#/1125" name="base_Property" type="#/745"/>
+  <UML2:Property owner="#/1212" name="technology" type="#/1295"/>
+  <UML2:Property owner="#/1364" name="type" type="#/350"/>
+  <UML2:Property owner="#/572" name="messageSizeElements" type="#/833"/>
+  <UML2:Operation name="currentTime" type="#/908"/>
+  <UML2:Class name="ChoiceType"/>
+  <UML2:Class name="Interface"/>
+  <UML2:Class name="HwBranchPredictor"/>
+  <UML2:Property owner="#/1388" name="clockOvh" type="#/1005"/>
+  <UML2:Class name="MessageComResource"/>
+  <UML2:Property owner="#/1118" name="message" type="#/313" association="#/1347"/>
+  <UML2:Property owner="#/943" name="event" type="#/250"/>
+  <UML2:Class name="ShapeSpecification"/>
+  <UML2:Property owner="#/328" name="population" type="#/750"/>
+  <UML2:Property owner="#/1026" name="isSynchronous" type="#/522"/>
+  <UML2:Property owner="#/507" name="powertypeExtent" type="#/1430" association="#/956"/>
+  <UML2:Property owner="#/247" name="isComposite" type="#/522"/>
+  <UML2:Property owner="#/1026" name="wordWidth" type="#/768"/>
+  <UML2:Property owner="#/1098" name="base_NamedElement" type="#/802"/>
+  <UML2:Property owner="#/21" name="indexToValue" type="#/546"/>
+  <UML2:Property owner="#/248" name="jitter" type="#/1005"/>
+  <UML2:Property owner="#/1364" name="contract" type="#/1178"/>
+  <UML2:Property owner="#/1266" name="ISRprioRange" type="#/50"/>
+  <UML2:Property owner="#/247" name="exit" type="#/1178"/>
+  <UML2:Association owner="#/907" name="featuringClassifierfeature" memberEnd="#/39 #/430"/>
+  <UML2:Enumeration name="ISA_Type"/>
+  <UML2:Class name="FixedPriorityParameters"/>
+  <UML2:Property owner="#/572" name="meachnism" type="#/1483"/>
+  <UML2:Class name="MultiplicityElement" isAbstract="true"/>
+  <UML2:Class name="HwTimingResource"/>
+  <UML2:Property owner="#/991" name="description" type="#/914"/>
+  <UML2:Property owner="#/363" name="connectedTo" type="#/495"/>
+  <UML2:Class name="ClockResource"/>
+  <UML2:Property owner="#/12" name="mips" type="#/1088"/>
+  <UML2:Property owner="#/253" name="general" type="#/507"/>
+  <UML2:Property owner="#/386" name="patternShape" type="#/575"/>
+  <UML2:PrimitiveType name="EBoolean"/>
+  <UML2:Property owner="#/315" name="deadline" type="#/1005"/>
+  <UML2:Association owner="#/907" name="includeincludingCase" memberEnd="#/117 #/1261"/>
+  <UML2:Property owner="#/1179" name="timings" type="#/664"/>
+  <UML2:Property owner="#/1178" name="isReentrant" type="#/522"/>
+  <UML2:Property owner="#/501" name="result" type="#/788"/>
+  <UML2:Property owner="#/745" name="isComposite" type="#/522"/>
+  <UML2:Property owner="#/572" name="sendServices" type="#/1262"/>
+  <UML2:Property owner="#/1022" name="identifierElements" type="#/833"/>
+  <UML2:Class name="GaWorkloadGenerator"/>
+  <UML2:Class name="GaCommChannel"/>
+  <UML2:Property owner="#/247" name="isSimple" type="#/522"/>
+  <UML2:Property owner="#/684" name="memoryBlockAdressSelements" type="#/833"/>
+  <UML2:Property owner="#/1161" name="subgroup" type="#/1161" association="#/1331"/>
+  <UML2:Association owner="#/907" name="importingNamespaceelementImport" memberEnd="#/777 #/1099"/>
+  <UML2:Property owner="#/685" name="root" type="#/779"/>
+  <UML2:Property owner="#/664" name="notation" type="#/914"/>
+  <UML2:Property owner="#/572" name="messageQueuePolicy" type="#/233"/>
+  <UML2:Class name="TupleType"/>
+  <UML2:Association owner="#/907" name="extendextension" memberEnd="#/649 #/198"/>
+  <UML2:Property owner="#/240" name="timing" type="#/1244"/>
+  <UML2:Property owner="#/507" name="ownedUseCase" type="#/1488"/>
+  <UML2:Parameter name="name" type="#/371"/>
+  <UML2:Association owner="#/907" name="nestingPackagenestedPackage" memberEnd="#/1490 #/1314"/>
+  <UML2:Association owner="#/907" name="connectionPointstateMachine" memberEnd="#/1298 #/894"/>
+  <UML2:Property owner="#/1364" name="redefinedConnector" type="#/1364"/>
+  <UML2:Property owner="#/501" name="body" type="#/371"/>
+  <UML2:Property owner="#/1478" name="owningTemplateParameter" type="#/1064" association="#/3"/>
+  <UML2:Association owner="#/907" name="associationmemberEnd" memberEnd="#/478 #/496"/>
+  <UML2:Property owner="#/1171" name="relRes" type="#/889"/>
+  <UML2:Property owner="#/1157" name="origin" type="#/127"/>
+  <UML2:Class name="Pseudostate"/>
+  <UML2:Property owner="#/26" name="effect" type="#/1178"/>
+  <UML2:Property owner="#/1367" name="inGroup" type="#/1161" association="#/1255"/>
+  <UML2:Property owner="#/1388" name="memSize" type="#/768"/>
+  <UML2:Association owner="#/907" name="specificgeneralization" memberEnd="#/415 #/775"/>
+  <UML2:Operation name="gt" type="#/522">
+    <ownedParameter href="#/917"/>
+  </UML2:Operation>
+  <UML2:Property owner="#/109" name="type" type="#/888"/>
+  <UML2:Association owner="#/907" name="ownerownedElement" memberEnd="#/423 #/1313"/>
+  <UML2:Class name="ConcurrencyResource"/>
+  <UML2:Property owner="#/1282" name="type" type="#/265"/>
+  <UML2:Property owner="#/1463" name="acquireServices" type="#/1262"/>
+  <UML2:Class name="EDFParameters"/>
+  <UML2:Property owner="#/337" name="base_Behavior" type="#/1178"/>
+  <UML2:Class name="TimedConstraint"/>
+  <UML2:Property owner="#/1478" name="templateParameter" type="#/1064" association="#/1356"/>
+  <UML2:Property owner="#/1157" name="tiler" type="#/790"/>
+  <UML2:Class name="IntervalType"/>
+  <UML2:Class name="TimeEvent"/>
+  <UML2:Class name="ValueSpecification" isAbstract="true"/>
+  <UML2:Property owner="#/1488" name="extend" type="#/525" association="#/618"/>
+  <UML2:Property owner="#/75" name="value" type="#/420"/>
+  <UML2:Property owner="#/1062" name="sectorSize" type="#/768"/>
+  <UML2:Property owner="#/1102" name="metaclass" type="#/451" association="#/1326"/>
+  <UML2:Property owner="#/688" name="context" type="#/507"/>
+  <UML2:Property owner="#/1165" name="direction" type="#/102"/>
+  <UML2:Property owner="#/240" name="isSched" type="#/457"/>
+  <UML2:Property owner="#/322" name="base_Connector" type="#/1364"/>
+  <UML2:Property owner="#/149" name="op_Frequencies" type="#/1058"/>
+  <UML2:Property owner="#/456" name="profileApplication" type="#/1109" association="#/771"/>
+  <UML2:Association owner="#/907" name="receivingPackagepackageMerge" memberEnd="#/1035 #/1218"/>
+  <UML2:Enumeration name="BFeatureKind"/>
+  <UML2:Class name="ClockRefine"/>
+  <UML2:Property owner="#/52" name="executionLocation" type="#/371"/>
+  <UML2:Operation name="getDeployedElements" type="#/140"/>
+  <UML2:Class name="Timing"/>
+  <UML2:Property owner="#/1118" name="fragment" type="#/1333" association="#/737"/>
+  <UML2:Class name="HwRAM"/>
+  <UML2:Property owner="#/1212" name="blocksRAM" type="#/666"/>
+  <UML2:Property owner="#/247" name="connectionPoint" type="#/630" association="#/1071"/>
+  <UML2:Property owner="#/1091" name="host" type="#/143"/>
+  <UML2:Property owner="#/609" name="packetSize" type="#/768"/>
+  <UML2:Property owner="#/12" name="caches" type="#/1282"/>
+  <UML2:Property owner="#/1223" name="concurrentResources" type="#/833"/>
+  <UML2:Property owner="#/157" name="isModulo" type="#/522"/>
+  <UML2:Property owner="#/745" name="aggregation" type="#/1232"/>
+  <UML2:Enumeration name="MessageKind"/>
+  <UML2:Property owner="#/828" name="precision" type="#/908"/>
+  <UML2:Class name="TimedDomain"/>
+  <UML2:Class name="ConnectorEnd"/>
+  <UML2:Property owner="#/779" name="serDemand" type="#/249"/>
+  <UML2:Property owner="#/521" name="guard" type="#/1283"/>
+  <UML2:Property owner="#/677" name="base_Package" type="#/456"/>
+  <UML2:Property owner="#/1217" name="redefinitionContext" type="#/507"/>
+  <UML2:Class name="InputPin"/>
+  <UML2:Class name="MemoryBroker"/>
+  <UML2:Class name="GaScenario"/>
+  <UML2:Property owner="#/31" name="standard" type="#/1117"/>
+  <UML2:Operation name="eq" type="#/522">
+    <ownedParameter href="#/749"/>
+  </UML2:Operation>
+  <UML2:Class name="Action" isAbstract="true"/>
+  <UML2:Property owner="#/273" name="poolWaitingTime" type="#/1005"/>
+  <UML2:Property owner="#/913" name="group" type="#/1161" association="#/804"/>
+  <UML2:Property owner="#/26" name="target" type="#/1317"/>
+  <UML2:Property owner="#/1400" name="ownedActual" type="#/1478"/>
+  <UML2:Property owner="#/443" name="specification" type="#/648"/>
+  <UML2:Property owner="#/1367" name="activity" type="#/913" association="#/812"/>
+  <UML2:Property owner="#/21" name="nature" type="#/435"/>
+  <UML2:Enumeration name="VariableDirectionKind"/>
+  <UML2:Class name="HwI_O"/>
+  <UML2:Property owner="#/1178" name="postcondition" type="#/443"/>
+  <UML2:Property owner="#/1439" name="overhead" type="#/1005"/>
+  <UML2:Association owner="#/907" name="nodeactivity" memberEnd="#/1426 #/179"/>
+  <UML2:Property owner="#/788" name="default" type="#/371"/>
+  <UML2:Property owner="#/535" name="transmMode" type="#/748"/>
+  <UML2:Property owner="#/1064" name="parameteredElement" type="#/1478" association="#/1356"/>
+  <UML2:Enumeration name="SynchronizationKind"/>
+  <UML2:Class name="DurationObservation"/>
+  <UML2:Property owner="#/1184" name="isMaxOpen" type="#/522"/>
+  <UML2:Class name="HwCommunicationResource"/>
+  <UML2:Property owner="#/1063" name="precision" type="#/908"/>
+  <UML2:Property owner="#/646" name="intervalAttrib" type="#/745"/>
+  <UML2:Class name="GaWorkloadEvent"/>
+  <UML2:Property owner="#/684" name="mapServices" type="#/1262"/>
+  <UML2:Property owner="#/1184" name="maxValue" type="#/371"/>
+  <UML2:Enumeration name="ParameterEffectKind"/>
+  <UML2:Class name="InteractionUse"/>
+  <UML2:Property owner="#/1166" name="durationElements" type="#/833"/>
+  <UML2:Property owner="#/1301" name="ownedAttribute" type="#/745" association="#/1029"/>
+  <UML2:Class name="HwResourceService"/>
+  <UML2:Class name="ExecutableNode" isAbstract="true"/>
+  <UML2:Parameter name="type" type="#/502"/>
+  <UML2:Property owner="#/788" name="operation" type="#/546"/>
+  <UML2:Class name="TimedValueType"/>
+  <UML2:Class name="IntegerMatrix"/>
+  <UML2:Class name="InvocationAction" isAbstract="true"/>
+  <UML2:Property owner="#/558" name="elementSize" type="#/1444"/>
+  <UML2:Property owner="#/413" name="accessedElement" type="#/745"/>
+  <UML2:Property owner="#/802" name="qualifiedName" type="#/371"/>
+  <UML2:Property owner="#/196" name="rdTime" type="#/1005"/>
+  <UML2:Property owner="#/118" name="frequency" type="#/1246"/>
+  <UML2:Property owner="#/1" name="addition" type="#/1488"/>
+  <UML2:Class name="NFP_Real"/>
+  <UML2:Property owner="#/859" name="symbol" type="#/371"/>
+  <UML2:Property owner="#/109" name="resumeServices" type="#/1262"/>
+  <UML2:Property owner="#/936" name="nbChannels" type="#/1088"/>
+  <UML2:Parameter name="parameterTypes" type="#/502"/>
+  <UML2:Property owner="#/1181" name="description" type="#/914"/>
+  <UML2:Property owner="#/535" name="capacity" type="#/1235"/>
+  <UML2:Association owner="#/907" name="fragmentenclosingInteraction" memberEnd="#/665 #/197"/>
+  <UML2:Property owner="#/471" name="instance" type="#/889"/>
+  <UML2:Class name="Deployment"/>
+  <UML2:Enumeration name="Repl_Policy"/>
+  <UML2:Property owner="#/1430" name="isCovering" type="#/522"/>
+  <UML2:Property owner="#/109" name="activateServices" type="#/1262"/>
+  <UML2:Class name="TimeObservation"/>
+  <UML2:Property owner="#/1022" name="createServices" type="#/1262"/>
+  <UML2:Class name="Property"/>
+  <UML2:Property owner="#/1118" name="action" type="#/688"/>
+  <UML2:Class name="TimeExpression"/>
+  <UML2:Enumeration name="TransmModeKind"/>
+  <UML2:Parameter name="u" type="#/10"/>
+  <UML2:Class name="NFP_Integer"/>
+  <UML2:Property owner="#/788" name="parameterSet" type="#/1420" association="#/934"/>
+  <UML2:Association owner="#/907" name="ownedOperationdatatype" memberEnd="#/1233 #/1380"/>
+  <UML2:Enumeration name="DataSizeUnitKind"/>
+  <UML2:Property owner="#/666" name="organization" type="#/1031"/>
+  <UML2:Class name="BehavioredClassifier" isAbstract="true"/>
+  <UML2:Property owner="#/313" name="receiveEvent" type="#/446"/>
+  <UML2:Property owner="#/302" name="speedFactor" type="#/908"/>
+  <UML2:Class name="TemplateSignature"/>
+  <UML2:Property owner="#/535" name="utilization" type="#/730"/>
+  <UML2:Property owner="#/1266" name="isPreempible" type="#/457"/>
+  <UML2:Class name="DefaultLink"/>
+  <UML2:Property owner="#/730" name="value" type="#/908"/>
+  <UML2:Property owner="#/131" name="isWatchdog" type="#/522"/>
+  <UML2:Property owner="#/1212" name="organization" type="#/1080"/>
+  <UML2:Parameter name="u" type="#/10"/>
+  <UML2:Class name="HwDevice"/>
+  <UML2:Enumeration name="SchedPolicyKind"/>
+  <UML2:Class name="NFP_DataSize"/>
+  <UML2:Property owner="#/1400" name="formal" type="#/1064"/>
+  <UML2:Property owner="#/678" name="role" type="#/815"/>
+  <UML2:Association owner="#/907" name="profileApplicationapplyingPackage" memberEnd="#/658 #/263"/>
+  <UML2:Property owner="#/109" name="notificationResources" type="#/833"/>
+  <UML2:Property owner="#/161" name="scope" type="#/55" association="#/186"/>
+  <UML2:Property owner="#/1246" name="unit" type="#/887"/>
+  <UML2:Property owner="#/507" name="generalization" type="#/253" association="#/634"/>
+  <UML2:Class name="StructuralFeature" isAbstract="true"/>
+  <UML2:Property owner="#/99" name="importingNamespace" type="#/208" association="#/613"/>
+  <UML2:Property owner="#/1244" name="laxity" type="#/784"/>
+  <UML2:Class name="GaStep"/>
+  <UML2:Property owner="#/630" name="state" type="#/247" association="#/1071"/>
+  <UML2:Enumeration name="AreaUnitKind"/>
+  <UML2:Property owner="#/247" name="deferrableTrigger" type="#/943"/>
+  <UML2:Property owner="#/685" name="hostDemandOps" type="#/730"/>
+  <UML2:Enumeration name="LaxityKind"/>
+  <UML2:Property owner="#/1262" name="method" type="#/1178" association="#/479"/>
+  <UML2:Property owner="#/1484" name="openServices" type="#/1262"/>
+  <UML2:Class name="Stereotype"/>
+  <UML2:Class name="Parameter"/>
+  <UML2:Property owner="#/273" name="poolSize" type="#/1444"/>
+  <UML2:Class name="TilerSpecification"/>
+  <UML2:Property owner="#/1235" name="precision" type="#/908"/>
+  <UML2:Association owner="#/907" name="beforetoAfter" memberEnd="#/1004 #/447"/>
+  <UML2:Property owner="#/745" name="isDerivedUnion" type="#/522"/>
+  <UML2:Property owner="#/974" name="importingNamespace" type="#/208" association="#/1095"/>
+  <UML2:Property owner="#/1262" name="isAbstract" type="#/522"/>
+  <UML2:Property owner="#/1439" name="period" type="#/1005"/>
+  <UML2:Association owner="#/907" name="packageownedType" memberEnd="#/1441 #/1017"/>
+  <UML2:Property owner="#/815" name="end" type="#/678"/>
+  <UML2:Property owner="#/164" name="type" type="#/133"/>
+  <UML2:Property owner="#/1131" name="ownedPort" type="#/1226"/>
+  <UML2:Property owner="#/495" name="bandWidth" type="#/1235"/>
+  <UML2:Class name="NamedElement" isAbstract="true"/>
+  <UML2:Association owner="#/907" name="connectionstate" memberEnd="#/201 #/942"/>
+  <UML2:Association owner="#/907" name="groupinActivity" memberEnd="#/690 #/1069"/>
+  <UML2:Property owner="#/350" name="ownedEnd" type="#/745" association="#/1042"/>
+  <UML2:Property owner="#/139" name="boundElement" type="#/79" association="#/1143"/>
+  <UML2:Class name="SwSchedulableResource"/>
+  <UML2:Property owner="#/451" name="superClass" type="#/451"/>
+  <UML2:Property owner="#/914" name="value" type="#/371"/>
+  <UML2:Property owner="#/747" name="expr" type="#/648"/>
+  <UML2:Property owner="#/1103" name="base_BehavioralFeature" type="#/1262"/>
+  <UML2:Association owner="#/907" name="activityedge" memberEnd="#/694 #/854"/>
+  <UML2:Property owner="#/779" name="blockT" type="#/1005"/>
+  <UML2:Class name="Allocated"/>
+  <UML2:Class name="ConnectableElement" isAbstract="true"/>
+  <UML2:Property owner="#/1064" name="ownedDefault" type="#/1478"/>
+  <UML2:Property owner="#/1223" name="base_Namespace" type="#/208"/>
+  <UML2:Enumeration name="ObjectNodeOrderingKind"/>
+  <UML2:Property owner="#/885" name="source" type="#/105"/>
+  <UML2:Property owner="#/196" name="occKind" type="#/888"/>
+  <UML2:Property owner="#/1410" name="base_BehavioredClassifier" type="#/755"/>
+  <UML2:Property owner="#/457" name="value" type="#/522"/>
+  <UML2:Property owner="#/936" name="drivenBy" type="#/12"/>
+  <UML2:Property owner="#/395" name="burstSize" type="#/750"/>
+  <UML2:Property owner="#/1428" name="manifestation" type="#/1464"/>
+  <UML2:Property owner="#/1091" name="otherSchedPolicy" type="#/371"/>
+  <UML2:Property owner="#/850" name="transition" type="#/26" association="#/1130"/>
+  <UML2:Class name="NFP_Energy"/>
+  <UML2:Property owner="#/1447" name="counterWidth" type="#/768"/>
+  <UML2:Property owner="#/889" name="isActive" type="#/522"/>
+  <UML2:Association owner="#/907" name="lifelineinteraction" memberEnd="#/548 #/175"/>
+  <UML2:Property owner="#/591" name="isUnique" type="#/522"/>
+  <UML2:Class name="TypedElement" isAbstract="true"/>
+  <UML2:Property owner="#/983" name="waitServices" type="#/1262"/>
+  <UML2:Property owner="#/666" name="repl_Policy" type="#/740"/>
+  <UML2:Class name="TimeConstraint"/>
+  <UML2:Property owner="#/630" name="kind" type="#/257"/>
+  <UML2:Class name="ObjectNode" isAbstract="true"/>
+  <UML2:Property owner="#/549" name="organization" type="#/1031"/>
+  <UML2:Class name="GaResourcesPlatform"/>
+  <UML2:Association owner="#/907" name="nodeinInterruptibleRegion" memberEnd="#/990 #/1472"/>
+  <UML2:Property owner="#/26" name="trigger" type="#/943"/>
+  <UML2:Property owner="#/1463" name="accessTokenElements" type="#/833"/>
+  <UML2:Class name="NfpConstraint"/>
+  <UML2:Property owner="#/924" name="fp" type="#/589"/>
+  <UML2:Enumeration name="WritePolicy"/>
+  <UML2:Property owner="#/535" name="blockT" type="#/1005"/>
+  <UML2:Property owner="#/391" name="direction" type="#/102"/>
+  <UML2:Property owner="#/943" name="port" type="#/1226"/>
+  <UML2:Class name="Region"/>
+  <UML2:Property owner="#/79" name="templateBinding" type="#/139" association="#/1143"/>
+  <UML2:Property owner="#/807" name="deadlineElements" type="#/833"/>
+  <UML2:Property owner="#/313" name="sendEvent" type="#/446"/>
+  <UML2:Property owner="#/913" name="edge" type="#/1367" association="#/812"/>
+  <UML2:Property owner="#/807" name="isStaticSchedulingFeature" type="#/522"/>
+  <UML2:Property owner="#/1473" name="memoryProtection" type="#/1088"/>
+  <UML2:Class name="HwStorageManager"/>
+  <UML2:Property owner="#/1157" name="paving" type="#/722"/>
+  <UML2:Class name="Expression"/>
+  <UML2:Property owner="#/1291" name="client" type="#/802" association="#/218"/>
+  <UML2:Property owner="#/1367" name="inPartition" type="#/418" association="#/916"/>
+  <UML2:Class name="Interval"/>
+  <UML2:Property owner="#/1064" name="default" type="#/1478"/>
+  <UML2:Property owner="#/1036" name="contract" type="#/569"/>
+  <UML2:Property owner="#/298" name="synchKind" type="#/704"/>
+  <UML2:Property owner="#/1496" name="base_BehavioralFeature" type="#/1262"/>
+  <UML2:Property owner="#/391" name="base_Interface" type="#/569"/>
+  <UML2:Property owner="#/2" name="ownedConnector" type="#/1364"/>
+  <UML2:Property owner="#/1328" name="isAtomic" type="#/522"/>
+  <UML2:Property owner="#/1282" name="writePolicy" type="#/846"/>
+  <UML2:Property owner="#/1428" name="fileName" type="#/371"/>
+  <UML2:Property owner="#/298" name="isAtomic" type="#/522"/>
+  <UML2:Property owner="#/608" name="pop" type="#/750"/>
+  <UML2:Property owner="#/1108" name="represents" type="#/815"/>
+  <UML2:Property owner="#/108" name="price" type="#/914"/>
+  <UML2:Property owner="#/807" name="schedulers" type="#/802"/>
+  <UML2:Class name="AllocateActivityGroup"/>
+  <UML2:Property owner="#/838" name="inState" type="#/247"/>
+  <UML2:Property owner="#/1484" name="writeServices" type="#/1262"/>
+  <UML2:Property owner="#/1109" name="isStrict" type="#/522"/>
+  <UML2:Property owner="#/850" name="extendedRegion" type="#/850"/>
+  <UML2:Property owner="#/721" name="onClock" type="#/371"/>
+  <UML2:Enumeration name="MutualExclusionResourceKind"/>
+  <UML2:Property owner="#/991" name="ownedHW" type="#/991"/>
+  <UML2:Class name="NFP_CommonType"/>
+  <UML2:Property owner="#/225" name="finish" type="#/1379"/>
+  <UML2:Enumeration name="FrequencyUnitKind"/>
+  <UML2:Class name="ArrivalPattern"/>
+  <UML2:Class name="Resource"/>
+  <UML2:Property owner="#/1388" name="cntxtSwt" type="#/1005"/>
+  <UML2:Enumeration name="ConnectorKind"/>
+  <UML2:Class name="PartDecomposition"/>
+  <UML2:Property owner="#/1430" name="isDisjoint" type="#/522"/>
+  <UML2:Property owner="#/630" name="stateMachine" type="#/1081" association="#/623"/>
+  <UML2:Property owner="#/302" name="scheduler" type="#/1091"/>
+  <UML2:Property owner="#/745" name="redefinedProperty" type="#/745"/>
+  <UML2:Property owner="#/1413" name="suspentions" type="#/750"/>
+  <UML2:Property owner="#/1484" name="closeServices" type="#/1262"/>
+  <UML2:Class name="ExecutionPlatformAllocationEnd"/>
+  <UML2:Property owner="#/1226" name="protocol" type="#/171"/>
+  <UML2:Property owner="#/569" name="protocol" type="#/171"/>
+  <UML2:Property owner="#/549" name="type" type="#/536"/>
+  <UML2:Property owner="#/998" name="workload" type="#/286"/>
+  <UML2:Property owner="#/678" name="definingEnd" type="#/745"/>
+  <UML2:Class name="SchedulableResource"/>
+  <UML2:Property owner="#/1037" name="base_InvocationAction" type="#/723"/>
+  <UML2:Package name="MARTE" member="#/1186 #/444 #/1052 #/102 #/660 #/696 #/529 #/1405 #/704 #/1321 #/1121 #/588 #/1295 #/543 #/740 #/846 #/265 #/536 #/1023 #/392 #/351 #/1136 #/1041 #/233 #/1483 #/209 #/324 #/883 #/163 #/784 #/48 #/1038 #/1149 #/887 #/753 #/9 #/1067 #/382 #/781 #/767 #/1384 #/1021 #/105 #/1138 #/1395 #/748 #/435 #/1089 #/269 #/281 #/1117 #/1381 #/155 #/352 #/1232 #/190 #/450 #/713 #/675 #/818 #/513 #/891 #/257 #/1204 #/437 #/844 #/54 #/814 #/358 #/899 #/877 #/661 #/1435 #/677 #/31 #/21 #/1345 #/214 #/643 #/1032 #/1162 #/151 #/1090 #/384 #/1486 #/889 #/402 #/488 #/1105 #/638 #/1091 #/302 #/143 #/77 #/301 #/905 #/558 #/224 #/469 #/595 #/995 #/432 #/477 #/290 #/931 #/1165 #/116 #/1328 #/1037 #/391 #/147 #/23 #/322 #/761 #/157 #/1275 #/386 #/1125 #/1098 #/1157 #/1184 #/646 #/1150 #/568 #/617 #/273 #/1410 #/337 #/196 #/298 #/1496 #/88 #/707 #/277 #/495 #/1026 #/132 #/363 #/991 #/717 #/1080 #/12 #/149 #/107 #/570 #/195 #/1212 #/1179 #/664 #/211 #/1031 #/666 #/549 #/1062 #/1282 #/857 #/936 #/1473 #/592 #/118 #/1447 #/766 #/697 #/441 #/108 #/1181 #/1427 #/284 #/1022 #/413 #/1349 #/109 #/1230 #/807 #/1166 #/1223 #/131 #/1484 #/684 #/1471 #/1360 #/1418 #/1176 #/572 #/983 #/1463 #/608 #/508 #/710 #/685 #/779 #/1388 #/249 #/1244 #/473 #/562 #/1171 #/1215 #/535 #/609 #/286 #/998 #/840 #/59 #/240 #/1103 #/315 #/1413 #/1015 #/560 #/1266 #/1423 #/968 #/126 #/949 #/999 #/471 #/641 #/924 #/589 #/1439 #/1455 #/885 #/1246 #/730 #/1088 #/457 #/914 #/750 #/75 #/1235 #/1106 #/768 #/828 #/1063 #/1495 #/888 #/248 #/547 #/395 #/246 #/328 #/202 #/1470 #/1469 #/1005 #/127 #/722 #/50 #/10 #/279 #/1355 #/1058 #/123 #/1076 #/721 #/19 #/790 #/575 #/320 #/16 #/456 #/802 #/776 #/815 #/79 #/745 #/1291 #/439 #/120 #/208 #/99 #/974 #/443 #/833 #/502 #/350 #/507 #/1217 #/139 #/758 #/1064 #/1478 #/1400 #/253 #/1430 #/1393 #/952 #/140 #/398 #/1109 #/1476 #/787 #/451 #/1124 #/859 #/648 #/755 #/1178 #/591 #/397 #/1301 #/164 #/1488 #/1093 #/1011 #/199 #/501 #/788 #/1131 #/546 #/282 #/1102 #/1276 #/418 #/20 #/1104 #/1262 #/472 #/747 #/531 #/1299 #/314 #/862 #/836 #/1297 #/1383 #/1281 #/743 #/705 #/678 #/647 #/250 #/1226 #/688 #/313 #/1108 #/225 #/723 #/1364 #/133 #/569 #/1036 #/943 #/171 #/1081 #/244 #/739 #/1 #/525 #/944 #/850 #/2 #/1317 #/26 #/247 #/1420 #/466 #/1161 #/1367 #/47 #/13 #/951 #/718 #/1285 #/410 #/683 #/183 #/838 #/446 #/1118 #/892 #/714 #/1333 #/630 #/1477 #/55 #/161 #/913 #/1379 #/52 #/1146 #/1428 #/470 #/1464 #/521 #/1283"/>
+  <UML2:DataType owner="#/907" name="Real"/>
+  <UML2:Property owner="#/443" name="constrainedElement" type="#/320"/>
+  <UML2:Property owner="#/743" name="event" type="#/802"/>
+  <UML2:Property owner="#/931" name="execTime" type="#/1005"/>
+  <UML2:Association owner="#/907" name="submachineStatesubmachine" memberEnd="#/1129 #/416"/>
+  <UML2:Class name="Activity"/>
+  <UML2:Class name="NFP_String"/>
+  <UML2:Property owner="#/151" name="obsKind" type="#/155"/>
+  <UML2:Association owner="#/907" name="edgeinPartition" memberEnd="#/160 #/861"/>
+  <UML2:Parameter name="u" type="#/10"/>
+  <UML2:Property owner="#/1103" name="spareCap" type="#/1005"/>
+  <UML2:Property owner="#/21" name="getTime" type="#/546"/>
+  <UML2:Property owner="#/1223" name="memorySpaces" type="#/833"/>
+  <UML2:PrimitiveType name="EInt"/>
+  <UML2:Property owner="#/1488" name="subject" type="#/507" association="#/254"/>
+  <UML2:Property owner="#/1212" name="ndLUT_Inputs" type="#/1088"/>
+  <UML2:Class name="SchedParameters"/>
+  <UML2:Property owner="#/546" name="upper" type="#/1361"/>
+  <UML2:Property owner="#/924" name="edf" type="#/641"/>
+  <UML2:Property owner="#/507" name="attribute" type="#/745"/>
+  <UML2:Property owner="#/1388" name="commRcvOvh" type="#/1005"/>
+  <UML2:Property owner="#/664" name="value" type="#/1005"/>
+  <UML2:Property owner="#/273" name="poolPolicy" type="#/529"/>
+  <UML2:Class name="ResourceUsage"/>
+  <UML2:Property owner="#/838" name="selection" type="#/1178"/>
+  <UML2:Property owner="#/589" name="priority" type="#/1444"/>
+  <UML2:Association owner="#/907" name="parameterparameterSet" memberEnd="#/1286 #/751"/>
+  <UML2:Property owner="#/157" name="repetitionShapeDependence" type="#/127"/>
+  <UML2:Class name="HwDMA"/>
+  <UML2:Property owner="#/507" name="inheritedMember" type="#/802"/>
+  <UML2:Property owner="#/240" name="schSlack" type="#/730"/>
+  <UML2:Property owner="#/466" name="inGroup" type="#/1161" association="#/422"/>
+  <UML2:Property owner="#/685" name="hostDemand" type="#/1005"/>
+  <UML2:Property owner="#/507" name="isAbstract" type="#/522"/>
+  <UML2:Property owner="#/1477" name="state" type="#/247" association="#/803"/>
+  <UML2:Class name="Trigger"/>
+  <UML2:Class name="ExtensionPoint"/>
+  <UML2:Property owner="#/21" name="unitType" type="#/20"/>
+  <UML2:Property owner="#/199" name="content" type="#/371"/>
+  <UML2:Property owner="#/1275" name="fromTiler" type="#/790"/>
+  <UML2:Property owner="#/1230" name="routineConnectServices" type="#/1262"/>
+  <UML2:Class name="PaResPassStep"/>
+  <UML2:Property owner="#/1230" name="vectorElements" type="#/833"/>
+  <UML2:Class name="Slot"/>
+  <UML2:Class name="Substitution"/>
+  <UML2:Property owner="#/850" name="state" type="#/247" association="#/173"/>
+  <UML2:Property owner="#/298" name="base_InvocationAction" type="#/723"/>
+  <UML2:Property owner="#/1103" name="schSlack" type="#/730"/>
+  <UML2:Association owner="#/907" name="powertypeExtentpowertype" memberEnd="#/578 #/1205"/>
+  <UML2:Property owner="#/277" name="controlledMedias" type="#/495" association="#/44"/>
+  <UML2:Property owner="#/546" name="type" type="#/502"/>
+  <UML2:Property owner="#/99" name="importedElement" type="#/140"/>
+  <UML2:Property owner="#/432" name="owner" type="#/889"/>
+  <UML2:Property owner="#/1064" name="ownedParameteredElement" type="#/1478" association="#/3"/>
+  <UML2:Property owner="#/1102" name="isRequired" type="#/522"/>
+  <UML2:Property owner="#/337" name="queueSchedPolicy" type="#/767"/>
+  <UML2:Property owner="#/1400" name="actual" type="#/1478"/>
+  <UML2:Property owner="#/1062" name="buffer" type="#/666"/>
+  <UML2:Property owner="#/1181" name="range" type="#/1355"/>
+  <UML2:Property owner="#/12" name="ownedMMUs" type="#/1473"/>
+  <UML2:Class name="PaRequestedStep"/>
+  <UML2:Property owner="#/685" name="interOccT" type="#/1005"/>
+  <UML2:Property owner="#/1104" name="specification" type="#/648"/>
+  <UML2:Property owner="#/1379" name="event" type="#/250"/>
+  <UML2:Property owner="#/273" name="operationalMode" type="#/1178"/>
+  <UML2:Property owner="#/802" name="clientDependency" type="#/1291" association="#/218"/>
+  <UML2:Class name="PackageImport"/>
+  <UML2:Property owner="#/1488" name="extensionPoint" type="#/944" association="#/1371"/>
+  <UML2:Property owner="#/1420" name="condition" type="#/443"/>
+  <UML2:Property owner="#/983" name="flushServices" type="#/1262"/>
+  <UML2:Property owner="#/471" name="utilization" type="#/730"/>
+  <UML2:Property owner="#/55" name="mustIsolate" type="#/522"/>
+  <UML2:Property owner="#/1161" name="superGroup" type="#/1161" association="#/1331"/>
+  <UML2:Property owner="#/617" name="tupleAttrib" type="#/745"/>
+  <UML2:Parameter name="parameterNames" type="#/371"/>
+  <UML2:Class name="NotificationResource"/>
+  <UML2:Property owner="#/1230" name="isMaskable" type="#/522"/>
+  <UML2:Property owner="#/196" name="priority" type="#/750"/>
+  <UML2:Property owner="#/1388" name="utilization" type="#/730"/>
+  <UML2:Property owner="#/1328" name="direction" type="#/102"/>
+  <UML2:Property owner="#/952" name="contract" type="#/507"/>
+  <UML2:Property owner="#/240" name="base_NamedElement" type="#/802"/>
+  <UML2:Property owner="#/47" name="node" type="#/466" association="#/841"/>
+  <UML2:Class name="HwResource"/>
+  <UML2:Property owner="#/1080" name="class" type="#/543"/>
+  <UML2:Property owner="#/1181" name="type" type="#/392"/>
+  <UML2:Property owner="#/437" name="base_EnumerationLiteral" type="#/1276"/>
+  <UML2:Class name="TimerResource"/>
+  <UML2:Property owner="#/12" name="nbCores" type="#/1088"/>
+  <UML2:Association owner="#/907" name="activityScopevariable" memberEnd="#/407 #/380"/>
+  <UML2:Class name="GaAnalysisContext"/>
+  <UML2:Class name="PaLogicalResource"/>
+  <UML2:Property owner="#/666" name="isNonVolatile" type="#/457"/>
+  <UML2:Property owner="#/208" name="importedMember" type="#/140"/>
+  <UML2:Property owner="#/1088" name="value" type="#/1361"/>
+  <UML2:Property owner="#/685" name="respT" type="#/1005"/>
+  <UML2:Property owner="#/470" name="before" type="#/1379" association="#/792"/>
+  <UML2:Class name="NFP_Duration"/>
+  <UML2:Property owner="#/1428" name="ownedAttribute" type="#/745"/>
+  <UML2:Property owner="#/1484" name="readServices" type="#/1262"/>
+  <UML2:Property owner="#/402" name="elementSize" type="#/1444"/>
+  <UML2:Property owner="#/120" name="relatedElement" type="#/320"/>
+  <UML2:Property owner="#/1496" name="exeKind" type="#/1321"/>
+  <UML2:Class name="Abstraction"/>
+  <UML2:Property owner="#/1217" name="redefinedElement" type="#/1217"/>
+  <UML2:Property owner="#/273" name="isMain" type="#/522"/>
+  <UML2:Property owner="#/12" name="predictors" type="#/570"/>
+  <UML2:Class name="SaSharedResource"/>
+  <UML2:Property owner="#/1106" name="precision" type="#/908"/>
+  <UML2:Property owner="#/456" name="ownedType" type="#/502" association="#/797"/>
+  <UML2:Property owner="#/418" name="subpartition" type="#/418" association="#/36"/>
+  <UML2:Property owner="#/26" name="container" type="#/850" association="#/1130"/>
+  <UML2:Property owner="#/1455" name="backgroundPriority" type="#/1444"/>
+  <UML2:Enumeration name="PeriodicServerKind"/>
+  <UML2:Class name="SwResource"/>
+  <UML2:Enumeration name="ComponentKind"/>
+  <UML2:Property owner="#/1367" name="target" type="#/466" association="#/1368"/>
+  <UML2:Property owner="#/384" name="base_Behavior" type="#/1178"/>
+  <UML2:Class name="HwBus"/>
+  <UML2:Property owner="#/59" name="optCriterion" type="#/48"/>
+  <UML2:Association owner="#/907" name="parameterSubstitutiontemplateBinding" memberEnd="#/1429 #/1267"/>
+  <UML2:Association owner="#/907" name="ownedAttributedatatype" memberEnd="#/716 #/332"/>
+  <UML2:Property owner="#/609" name="utlization" type="#/730"/>
+  <UML2:Class name="MemoryOrganization"/>
+  <UML2:Class name="TimedObservation"/>
+  <UML2:Association owner="#/907" name="interruptingEdgeinterrupts" memberEnd="#/1122 #/280"/>
+  <UML2:Property owner="#/132" name="sides" type="#/495"/>
+  <UML2:Property owner="#/398" name="receivingPackage" type="#/456" association="#/659"/>
+  <UML2:Class name="InterfaceRealization"/>
+  <UML2:Class name="SendFlowAction"/>
+  <UML2:Enumeration name="TimeUnitKind"/>
+  <UML2:Property owner="#/1091" name="isPreemptible" type="#/522"/>
+  <UML2:Property owner="#/568" name="base_DataType" type="#/1301"/>
+  <UML2:Enumeration name="AccessPolicyKind"/>
+  <UML2:Association owner="#/907" name="owningAssociationownedEnd" memberEnd="#/552 #/805"/>
+  <UML2:Property owner="#/788" name="effect" type="#/713"/>
+  <UML2:Property owner="#/1179" name="adressSize" type="#/768"/>
+  <UML2:Property owner="#/418" name="represents" type="#/320"/>
+  <UML2:Property owner="#/661" name="constraint" type="#/1486"/>
+  <UML2:Property owner="#/885" name="statQ" type="#/1395"/>
+  <UML2:Property owner="#/1364" name="end" type="#/678"/>
+  <UML2:Property owner="#/807" name="yieldServices" type="#/1262"/>
+  <UML2:Property owner="#/1063" name="unit" type="#/382"/>
+  <UML2:Property owner="#/2" name="role" type="#/815"/>
+  <UML2:Enumeration name="AllocationKind"/>
+  <UML2:Property owner="#/1036" name="implementingClassifier" type="#/755" association="#/73"/>
+  <UML2:Property owner="#/572" name="isFixedMessageSize" type="#/522"/>
+  <UML2:Property owner="#/1223" name="fork" type="#/1262"/>
+  <UML2:Property owner="#/108" name="r_Conditions" type="#/1181"/>
+  <UML2:Property owner="#/472" name="ownedAttribute" type="#/745"/>
+  <UML2:Class name="NFP_FrequencyInterval"/>
+  <UML2:Property owner="#/647" name="when" type="#/648"/>
+  <UML2:Association owner="#/907" name="containersubvertex" memberEnd="#/310 #/1190"/>
+  <UML2:Property owner="#/546" name="precondition" type="#/443"/>
+  <UML2:Class name="HwDrive"/>
+  <UML2:Class name="NFP_Length"/>
+  <UML2:Class name="TemplateParameter"/>
+  <UML2:Property owner="#/790" name="fitting" type="#/127"/>
+  <UML2:Property owner="#/1476" name="ownedStereotype" type="#/787"/>
+  <UML2:Enumeration name="EnergyUnitKind"/>
+  <UML2:Property owner="#/397" name="deployedElement" type="#/140"/>
+  <UML2:Property owner="#/1161" name="inActivity" type="#/913" association="#/804"/>
+  <UML2:Property owner="#/244" name="generalMachine" type="#/171"/>
+  <UML2:Association owner="#/907" name="connectionPointstate" memberEnd="#/668 #/780"/>
+  <UML2:Property owner="#/199" name="format" type="#/371"/>
+  <UML2:Property owner="#/196" name="base_Signal" type="#/472"/>
+  <UML2:Property owner="#/1022" name="stateElements" type="#/833"/>
+  <UML2:Operation name="createOwnedAttribute" type="#/745">
+    <ownedParameter href="#/4"/>
+    <ownedParameter href="#/719"/>
+    <ownedParameter href="#/259"/>
+    <ownedParameter href="#/223"/>
+  </UML2:Operation>
+  <UML2:Class name="NFP_NaturalInterval"/>
+  <UML2:Property owner="#/1031" name="wordSize" type="#/768"/>
+  <UML2:Property owner="#/889" name="base_InstanceSpecification" type="#/1104"/>
+  <UML2:Property owner="#/1005" name="unit" type="#/1038"/>
+  <UML2:Class name="PLD_Organization"/>
+  <UML2:Class name="StateMachine"/>
+  <UML2:Property owner="#/20" name="ownedLiteral" type="#/1276" association="#/503"/>
+  <UML2:Property owner="#/183" name="exceptionInput" type="#/838"/>
+  <UML2:Property owner="#/108" name="grid" type="#/1088"/>
+  <UML2:Property owner="#/714" name="refersTo" type="#/1118"/>
+  <UML2:Property owner="#/747" name="observation" type="#/531"/>
+  <UML2:Property owner="#/936" name="transferWidth" type="#/768"/>
+  <UML2:Class name="NFP_Natural"/>
+  <UML2:Enumeration name="TimeInterpretationKind"/>
+  <UML2:Class name="TimedEvent"/>
+  <UML2:Class name="Scheduler"/>
+  <UML2:Property owner="#/1011" name="mapping" type="#/501"/>
+  <UML2:Class name="Realization"/>
+  <UML2:Property owner="#/1367" name="inStructuredNode" type="#/55" association="#/1188"/>
+  <UML2:Association owner="#/907" name="packageImportimportingNamespace" memberEnd="#/1304 #/794"/>
+  <UML2:Property owner="#/913" name="structuredNode" type="#/55"/>
+  <UML2:Property owner="#/116" name="direction" type="#/102"/>
+  <UML2:Class name="ExpressionContext"/>
+  <UML2:Property owner="#/208" name="elementImport" type="#/99" association="#/613"/>
+  <UML2:Property owner="#/1470" name="unit" type="#/1038"/>
+  <UML2:Property owner="#/495" name="arbiters" type="#/277" association="#/44"/>
+  <UML2:Class name="Extension"/>
+  <UML2:Class name="SaCommStep"/>
+  <UML2:Class name="InstanceSpecification"/>
+  <UML2:Class name="SynchronizationResource"/>
+  <UML2:Class name="NFP_Power"/>
+  <UML2:Property owner="#/768" name="unit" type="#/753"/>
+  <UML2:Class name="Lifeline"/>
+  <UML2:Class name="ProfileApplication"/>
+  <UML2:Property owner="#/721" name="value" type="#/908"/>
+  <UML2:Property owner="#/439" name="target" type="#/320"/>
+  <UML2:Association owner="#/907" name="substitutionsubstitutingClassifier" memberEnd="#/1288 #/92"/>
+  <UML2:Property owner="#/591" name="upper" type="#/1361"/>
+  <UML2:Property owner="#/1495" name="unit" type="#/781"/>
+  <UML2:Association owner="#/907" name="deploymentlocation" memberEnd="#/1251 #/1219"/>
+  <UML2:Property owner="#/488" name="packetSize" type="#/1444"/>
+  <UML2:Enumeration name="TimeStandardKind"/>
+  <UML2:Class name="Interaction"/>
+  <UML2:Property owner="#/451" name="extension" type="#/1102" association="#/1326"/>
+  <UML2:Property owner="#/1410" name="concPolicy" type="#/1405"/>
+  <UML2:Enumeration name="ConcurrencyKind"/>
+  <UML2:Property owner="#/47" name="interruptingEdge" type="#/1367" association="#/1033"/>
+  <UML2:Property owner="#/273" name="memorySize" type="#/768"/>
+  <UML2:Class name="StringExpression"/>
+  <UML2:Class name="Var"/>
+  <UML2:Property owner="#/284" name="coolingPower" type="#/1106"/>
+  <UML2:Property owner="#/466" name="incoming" type="#/1367" association="#/1368"/>
+  <UML2:Operation name="lt" type="#/522">
+    <ownedParameter href="#/1363"/>
+  </UML2:Operation>
+  <UML2:Property owner="#/1081" name="submachineState" type="#/247" association="#/912"/>
+  <UML2:Association owner="#/907" name="transitioncontainer" memberEnd="#/827 #/1019"/>
+  <UML2:Class name="EncapsulatedClassifier" isAbstract="true"/>
+  <UML2:Property owner="#/885" name="dir" type="#/1138"/>
+  <UML2:Property owner="#/109" name="periodElements" type="#/833"/>
+  <UML2:Property owner="#/1181" name="status" type="#/351"/>
+  <UML2:Property owner="#/1379" name="toBefore" type="#/470" association="#/170"/>
+  <UML2:Enumeration name="InterruptKind"/>
+  <UML2:Property owner="#/313" name="interaction" type="#/1118" association="#/1347"/>
+  <UML2:Enumeration name="BasicNFP_Types_DirectionKind"/>
+  <UML2:Property owner="#/1410" name="memorySize" type="#/768"/>
+  <UML2:Property owner="#/1463" name="mechanism" type="#/883"/>
+  <UML2:Property owner="#/286" name="behavior" type="#/685"/>
+  <UML2:Property owner="#/107" name="type" type="#/588"/>
+  <UML2:Association owner="#/907" name="templateBindingboundElement" memberEnd="#/851 #/806"/>
+  <UML2:Property owner="#/1333" name="enclosingOperand" type="#/521" association="#/1341"/>
+  <UML2:Property owner="#/546" name="interface" type="#/569" association="#/166"/>
+  <UML2:Class name="Gate"/>
+  <UML2:Association owner="#/907" name="nodeinStructuredNode" memberEnd="#/146 #/1237"/>
+  <UML2:Property owner="#/1005" name="clock" type="#/371"/>
+  <UML2:Enumeration name="PowerUnitKind"/>
+  <UML2:Class name="CollectionType"/>
+  <UML2:Property owner="#/617" name="base_DataType" type="#/1301"/>
+  <UML2:Property owner="#/1473" name="virtualAddrSpace" type="#/768"/>
+  <UML2:Property owner="#/710" name="timedEvent" type="#/647"/>
+  <UML2:Property owner="#/807" name="isPreemptable" type="#/522"/>
+  <UML2:Operation name="ne" type="#/522">
+    <ownedParameter href="#/421"/>
+  </UML2:Operation>
+  <UML2:Property owner="#/109" name="enableConcurrencyServices" type="#/1262"/>
+  <UML2:Class name="Tiler"/>
+  <UML2:Property owner="#/1215" name="maxJitter" type="#/1005"/>
+  <UML2:Property owner="#/779" name="concurRes" type="#/905"/>
+  <UML2:Property owner="#/647" name="isRelative" type="#/522"/>
+  <UML2:Class name="ActivityGroup" isAbstract="true"/>
+  <UML2:Class name="TimedInstantObservation"/>
+  <UML2:Property owner="#/1266" name="schedPolicy" type="#/767"/>
+  <UML2:Operation name="createOwnedOperation" type="#/546">
+    <ownedParameter href="#/621"/>
+    <ownedParameter href="#/982"/>
+    <ownedParameter href="#/734"/>
+    <ownedParameter href="#/405"/>
+  </UML2:Operation>
+  <UML2:Class name="FlowProperty"/>
+  <UML2:Class name="SwTimerResource"/>
+  <UML2:Property owner="#/1262" name="concurrency" type="#/1405"/>
+  <UML2:Property owner="#/384" name="base_Message" type="#/313"/>
+  <UML2:Property owner="#/1226" name="isService" type="#/522"/>
+  <UML2:Property owner="#/116" name="isConjugated" type="#/522"/>
+  <UML2:Class name="GaRelStep"/>
+  <UML2:Property owner="#/1150" name="base_DataType" type="#/1301"/>
+  <UML2:Property owner="#/328" name="extDelay" type="#/1005"/>
+  <UML2:Property owner="#/546" name="isOrdered" type="#/522"/>
+  <UML2:Property owner="#/1496" name="synchKind" type="#/704"/>
+  <UML2:Class name="SharedDataComResource"/>
+  <UML2:Property owner="#/133" name="collaborationRole" type="#/815"/>
+  <UML2:Class name="Behavior" isAbstract="true"/>
+  <UML2:Class name="HwMemory"/>
+  <UML2:Property owner="#/1226" name="provided" type="#/569"/>
+  <UML2:Class name="Env_Condition"/>
+  <UML2:Property owner="#/1031" name="nbRows" type="#/1088"/>
+  <UML2:Property owner="#/313" name="messageKind" type="#/675"/>
+  <UML2:Class name="BoundedSubtype"/>
+  <UML2:Property owner="#/714" name="actualGate" type="#/1146"/>
+  <UML2:Enumeration name="ConstraintKind"/>
+  <UML2:Property owner="#/1317" name="outgoing" type="#/26"/>
+  <UML2:Association owner="#/907" name="edgeinStructuredNode" memberEnd="#/1417 #/1094"/>
+  <UML2:Property owner="#/991" name="p_HW_Services" type="#/717"/>
+  <UML2:Property owner="#/850" name="subvertex" type="#/1317" association="#/1060"/>
+  <UML2:Property owner="#/889" name="isProtected" type="#/522"/>
+  <UML2:Property owner="#/913" name="isSingleExecution" type="#/522"/>
+  <UML2:Property owner="#/418" name="isExternal" type="#/522"/>
+  <UML2:Property owner="#/211" name="nsSets" type="#/1088"/>
+  <UML2:Property owner="#/790" name="origin" type="#/127"/>
+  <UML2:Property owner="#/495" name="base_Association" type="#/350"/>
+  <UML2:Property owner="#/661" name="base_Dependency" type="#/1291"/>
+  <UML2:Property owner="#/1455" name="maxPendingReplenish" type="#/1444"/>
+  <UML2:Property owner="#/684" name="lockServices" type="#/1262"/>
+  <UML2:Property owner="#/575" name="size" type="#/1361"/>
+  <UML2:Property owner="#/418" name="node" type="#/466" association="#/381"/>
+  <UML2:Property owner="#/1435" name="impliedConstraint" type="#/844"/>
+  <UML2:Property owner="#/244" name="specificMachine" type="#/171" association="#/497"/>
+  <UML2:Class name="NFP"/>
+  <UML2:Property owner="#/1430" name="powertype" type="#/507" association="#/956"/>
+  <UML2:Property owner="#/196" name="boundDl" type="#/1470"/>
+  <UML2:Property owner="#/666" name="isStatic" type="#/457"/>
+  <UML2:Property owner="#/384" name="duration" type="#/648"/>
+  <UML2:Property owner="#/398" name="mergedPackage" type="#/456"/>
+  <UML2:Property owner="#/1484" name="accessPolicy" type="#/1041"/>
+  <UML2:Property owner="#/838" name="ordering" type="#/818"/>
+  <UML2:Class name="HwPLD"/>
+  <UML2:Property owner="#/109" name="entryPoints" type="#/320"/>
+  <UML2:Property owner="#/983" name="signalServices" type="#/1262"/>
+  <UML2:Class name="GaLatencyObs"/>
+  <UML2:Property owner="#/833" name="type" type="#/502"/>
+  <UML2:Class name="RedefinableElement" isAbstract="true"/>
+  <UML2:Property owner="#/456" name="packageMerge" type="#/398" association="#/659"/>
+  <UML2:Property owner="#/739" name="location" type="#/397" association="#/1115"/>
+  <UML2:Property owner="#/1427" name="capacity" type="#/828"/>
+  <UML2:Property owner="#/1423" name="extOpDemand" type="#/371"/>
+  <UML2:Property owner="#/877" name="isUnique" type="#/522"/>
+  <UML2:Class name="MemoryPartition"/>
+  <UML2:Property owner="#/905" name="schedParams" type="#/924"/>
+  <UML2:Property owner="#/974" name="importedPackage" type="#/456"/>
+  <UML2:Class name="Port"/>
+  <UML2:Property owner="#/745" name="subsettedProperty" type="#/745"/>
+  <UML2:Property owner="#/247" name="region" type="#/850" association="#/173"/>
+  <UML2:Property owner="#/1124" name="owningExpression" type="#/1124" association="#/554"/>
+  <UML2:Class name="InterruptResource"/>
+  <UML2:Property owner="#/710" name="effect" type="#/685"/>
+  <UML2:Enumeration name="AggregationKind"/>
+  <UML2:Property owner="#/1301" name="ownedOperation" type="#/546" association="#/752"/>
+  <UML2:Property owner="#/1283" name="minint" type="#/648"/>
+  <UML2:Class name="NFP_DataTxRate"/>
+  <UML2:Property owner="#/546" name="isQuery" type="#/522"/>
+  <UML2:Property owner="#/466" name="inStructuredNode" type="#/55" association="#/1147"/>
+  <UML2:Property owner="#/1215" name="latency" type="#/1005"/>
+  <UML2:Property owner="#/844" name="kind" type="#/1186"/>
+  <UML2:Property owner="#/1367" name="guard" type="#/648"/>
+  <UML2:Property owner="#/1388" name="throughput" type="#/1246"/>
+  <UML2:Property owner="#/1184" name="minValue" type="#/371"/>
+  <UML2:Property owner="#/1015" name="isConsum" type="#/457"/>
+  <UML2:Class name="GaTimingObs"/>
+  <UML2:Property owner="#/1184" name="isMinOpen" type="#/522"/>
+  <UML2:Class name="NFP_Frequency"/>
+  <UML2:Property owner="#/779" name="isAtomic" type="#/457"/>
+  <UML2:Property owner="#/471" name="throughput" type="#/1246"/>
+  <UML2:Property owner="#/685" name="cause" type="#/710"/>
+  <UML2:Property owner="#/889" name="resMult" type="#/1444"/>
+  <UML2:Property owner="#/397" name="deployment" type="#/739" association="#/1115"/>
+  <UML2:Property owner="#/790" name="paving" type="#/722"/>
+  <UML2:Property owner="#/560" name="isSched" type="#/457"/>
+  <UML2:Property owner="#/569" name="ownedOperation" type="#/546" association="#/166"/>
+  <UML2:Association owner="#/907" name="containedEdgeinGroup" memberEnd="#/1332 #/632"/>
+  <UML2:Property owner="#/1484" name="isBuffered" type="#/522"/>
+  <UML2:Property owner="#/710" name="trace" type="#/508"/>
+  <UML2:Property owner="#/59" name="isSched" type="#/457"/>
+  <UML2:Property owner="#/913" name="partition" type="#/418"/>
+  <UML2:Property owner="#/1388" name="schedPriRange" type="#/50"/>
+  <UML2:Property owner="#/1" name="includingCase" type="#/1488" association="#/601"/>
+  <UML2:Class name="BehavioralFeature" isAbstract="true"/>
+  <UML2:Property owner="#/1349" name="isReentrant" type="#/522"/>
+  <UML2:Property owner="#/225" name="start" type="#/1379"/>
+  <UML2:Property owner="#/88" name="packetT" type="#/1005"/>
+  <UML2:Class name="SaExecHost"/>
+  <UML2:Property owner="#/1400" name="templateBinding" type="#/139" association="#/1028"/>
+  <UML2:Property owner="#/1471" name="waitingQueuePolicy" type="#/233"/>
+  <UML2:Property owner="#/507" name="general" type="#/507"/>
+  <UML2:Property owner="#/31" name="base_InstanceSpecification" type="#/1104"/>
+  <UML2:Property owner="#/21" name="setTime" type="#/546"/>
+  <UML2:Property owner="#/1282" name="level" type="#/1088"/>
+  <UML2:Property owner="#/688" name="localPostcondition" type="#/443"/>
+  <UML2:Property owner="#/899" name="allocatedFrom" type="#/358"/>
+  <UML2:Class name="Distribute"/>
+  <UML2:Class name="EnumerationLiteral"/>
+  <UML2:Association owner="#/907" name="generalizationgeneralizationSet" memberEnd="#/1494 #/454"/>
+  <UML2:Property owner="#/1484" name="controlServices" type="#/1262"/>
+  <UML2:Property owner="#/1022" name="initializeServices" type="#/1262"/>
+  <UML2:Property owner="#/1026" name="isSerial" type="#/522"/>
+  <UML2:Class name="DurationConstraint"/>
+  <UML2:Class name="HWCache"/>
+  <UML2:Class name="InteractionConstraint"/>
+  <UML2:Association owner="#/907" name="owningInstanceslot" memberEnd="#/1307 #/1401"/>
+  <UML2:Class name="OutputPin"/>
+  <UML2:Property owner="#/1420" name="parameter" type="#/788" association="#/934"/>
+  <UML2:Property owner="#/1364" name="kind" type="#/891"/>
+  <UML2:Property owner="#/507" name="substitution" type="#/952" association="#/1112"/>
+  <UML2:Property owner="#/983" name="maskElements" type="#/833"/>
+  <UML2:Property owner="#/1470" name="values" type="#/908"/>
+  <UML2:Class name="Dependency"/>
+  <UML2:Property owner="#/54" name="valueAttrib" type="#/745"/>
+  <UML2:Property owner="#/471" name="unbddPool" type="#/522"/>
+  <UML2:Property owner="#/1463" name="releaseServices" type="#/1262"/>
+  <UML2:Enumeration name="PLD_Technology"/>
+  <UML2:Property owner="#/26" name="source" type="#/1317"/>
+  <UML2:Class name="IntervalConstraint"/>
+  <UML2:Property owner="#/1081" name="connectionPoint" type="#/630" association="#/623"/>
+  <UML2:Class name="Duration"/>
+  <UML2:Property owner="#/247" name="isOrthogonal" type="#/522"/>
+  <UML2:Class name="DataType"/>
+  <UML2:Property owner="#/1212" name="nbLUTs" type="#/1088"/>
+  <UML2:Property owner="#/546" name="lower" type="#/1444"/>
+  <UML2:Property owner="#/208" name="packageImport" type="#/974" association="#/1095"/>
+  <UML2:Property owner="#/108" name="staticConsumption" type="#/1106"/>
+  <UML2:Property owner="#/788" name="direction" type="#/450"/>
+  <UML2:Property owner="#/951" name="owningInstance" type="#/1104" association="#/1284"/>
+  <UML2:Property owner="#/788" name="isException" type="#/522"/>
+  <UML2:Property owner="#/802" name="visibility" type="#/352"/>
+  <UML2:Property owner="#/840" name="resources" type="#/889"/>
+  <UML2:Property owner="#/888" name="closed" type="#/328"/>
+  <UML2:Property owner="#/1282" name="structure" type="#/211"/>
+  <UML2:Property owner="#/320" name="ownedElement" type="#/320" association="#/637"/>
+  <UML2:Property owner="#/456" name="nestedPackage" type="#/456" association="#/622"/>
+  <UML2:Property owner="#/298" name="base_BehavioralFeature" type="#/1262"/>
+  <UML2:Property owner="#/685" name="throughput" type="#/1246"/>
+  <UML2:Class name="Vertex" isAbstract="true"/>
+  <UML2:Property owner="#/1217" name="isLeaf" type="#/522"/>
+  <UML2:Property owner="#/755" name="interfaceRealization" type="#/1036" association="#/73"/>
+  <UML2:Property owner="#/315" name="readyT" type="#/1005"/>
+  <UML2:Enumeration name="ExecutionKind"/>
+  <UML2:Property owner="#/1058" name="bound" type="#/1246"/>
+  <UML2:Property owner="#/710" name="pattern" type="#/888"/>
+  <UML2:Property owner="#/208" name="member" type="#/802"/>
+  <UML2:Property owner="#/685" name="utilizationHost" type="#/730"/>
+  <UML2:Association owner="#/907" name="extensionmetaclass" memberEnd="#/1119 #/652"/>
+  <UML2:Property owner="#/16" name="annotatedElement" type="#/320"/>
+  <UML2:Class name="MessagePort"/>
+  <UML2:Property owner="#/386" name="srcTiler" type="#/1157"/>
+  <UML2:Property owner="#/931" name="usedMemory" type="#/768"/>
+  <UML2:Association owner="#/907" name="superGroupsubgroup" memberEnd="#/980 #/612"/>
+  <UML2:Property owner="#/1161" name="containedEdge" type="#/1367" association="#/1255"/>
+  <UML2:Class name="InteractionFragment" isAbstract="true"/>
+  <UML2:Property owner="#/508" name="location" type="#/371"/>
+  <UML2:Property owner="#/350" name="endType" type="#/502"/>
+  <UML2:Property owner="#/991" name="r_HW_Services" type="#/717"/>
+  <UML2:Property owner="#/384" name="base_Action" type="#/688"/>
+  <UML2:Property owner="#/983" name="occurence" type="#/209"/>
+  <UML2:Property owner="#/99" name="alias" type="#/371"/>
+  <UML2:Property owner="#/889" name="base_Property" type="#/745"/>
+  <UML2:Association owner="#/907" name="enclosingOperandfragment" memberEnd="#/1144 #/366"/>
+  <UML2:Property owner="#/1328" name="base_Port" type="#/1226"/>
+  <UML2:Property owner="#/1477" name="entry" type="#/630"/>
+  <UML2:Property owner="#/290" name="isBlocking" type="#/522"/>
+  <UML2:Class name="TimedElement"/>
+  <UML2:Property owner="#/850" name="stateMachine" type="#/1081" association="#/438"/>
+  <UML2:Association owner="#/907" name="interactionmessage" memberEnd="#/1137 #/573"/>
+  <UML2:Property owner="#/1015" name="capacity" type="#/750"/>
+  <UML2:Class name="EntryPoint"/>
+  <UML2:Property owner="#/646" name="base_DataType" type="#/1301"/>
+  <UML2:Property owner="#/1081" name="extendedStateMachine" type="#/1081"/>
+  <UML2:Property owner="#/931" name="msgSize" type="#/768"/>
+  <UML2:Property owner="#/1212" name="nbFlipFlops" type="#/1088"/>
+  <UML2:Property owner="#/1476" name="metaclassReference" type="#/99"/>
+  <UML2:Class name="Realnterval"/>
+  <UML2:Association owner="#/907" name="parameteredElementtemplateParameter" memberEnd="#/703 #/644"/>
+  <UML2:Property owner="#/214" name="base_ValueSpecification" type="#/648"/>
+  <UML2:Property owner="#/432" name="base_BehavioralFeature" type="#/1262"/>
+  <UML2:Property owner="#/1435" name="kind" type="#/1052"/>
+  <UML2:Class name="SwCommunicationResource" isAbstract="true"/>
+  <UML2:DataType owner="#/907" name="UnlimitedNatural"/>
+  <UML2:Property owner="#/108" name="poweredServices" type="#/717"/>
+  <UML2:Parameter name="u" type="#/10"/>
+  <UML2:Class name="Connector"/>
+  <UML2:Property owner="#/248" name="phase" type="#/1005"/>
+  <UML2:Property owner="#/745" name="defaultValue" type="#/648"/>
+  <UML2:Class name="ActivityEdge" isAbstract="true"/>
+  <UML2:Association owner="#/907" name="incomingtarget" memberEnd="#/1127 #/1024"/>
+  <UML2:Property owner="#/1275" name="repetitionSpace" type="#/575"/>
+  <UML2:Property owner="#/1244" name="startObs" type="#/743"/>
+  <UML2:Association owner="#/907" name="extensionPointuseCase" memberEnd="#/975 #/341"/>
+  <UML2:Property owner="#/755" name="classifierBehavior" type="#/1178"/>
+  <UML2:Property owner="#/684" name="unlockServices" type="#/1262"/>
+  <UML2:Property owner="#/547" name="distribution" type="#/885"/>
+  <UML2:Property owner="#/714" name="argument" type="#/688"/>
+  <UML2:Property owner="#/386" name="targetTiler" type="#/1157"/>
+  <UML2:Property owner="#/246" name="phase" type="#/1005"/>
+  <UML2:Property owner="#/131" name="timers" type="#/833"/>
+  <UML2:Class name="OccurrenceSpecification"/>
+  <UML2:Property owner="#/546" name="datatype" type="#/1301" association="#/752"/>
+  <UML2:Enumeration name="LogicalTimeUnit"/>
+  <UML2:Property owner="#/183" name="protectedNode" type="#/718" association="#/534"/>
+  <UML2:Class name="TimeInterval"/>
+  <UML2:Enumeration name="ProtectProtocolKind"/>
+  <UML2:Property owner="#/21" name="offsetAttrib" type="#/745"/>
+  <UML2:Property owner="#/1178" name="precondition" type="#/443"/>
+  <UML2:Property owner="#/1215" name="utility" type="#/10"/>
+  <UML2:Class name="GaExecHost"/>
+  <UML2:Property owner="#/1150" name="collectionAttrib" type="#/745"/>
+  <UML2:Property owner="#/337" name="queueSize" type="#/1444"/>
+  <UML2:Property owner="#/1091" name="processingUnit" type="#/302"/>
+  <UML2:Property owner="#/456" name="packagedElement" type="#/140"/>
+  <UML2:Class name="Feature" isAbstract="true"/>
+  <UML2:Property owner="#/108" name="kind" type="#/1023"/>
+  <UML2:Enumeration name="StatisticalQualifierKind"/>
+  <UML2:Property owner="#/1090" name="repetition" type="#/1444"/>
+  <UML2:Property owner="#/1262" name="raisedException" type="#/502"/>
+  <UML2:Property owner="#/196" name="miss" type="#/1469"/>
+  <UML2:Property owner="#/568" name="defaultAttrib" type="#/745"/>
+  <UML2:Class name="TemplateParameterSubstitution"/>
+  <UML2:Property owner="#/1104" name="slot" type="#/951" association="#/1284"/>
+  <UML2:Property owner="#/807" name="deadlineTypeElements" type="#/833"/>
+  <UML2:Property owner="#/451" name="nestedClassifier" type="#/507"/>
+  <UML2:Property owner="#/451" name="ownedReception" type="#/282"/>
+  <UML2:Enumeration name="CallConcurrencyKind"/>
+  <UML2:Property owner="#/1015" name="releaseT" type="#/1005"/>
+  <UML2:Property owner="#/745" name="isDerived" type="#/522"/>
+  <UML2:Property owner="#/1423" name="behavCount" type="#/730"/>
+  <UML2:Property owner="#/546" name="redefinedOperation" type="#/546"/>
+  <UML2:Class name="PpUnit"/>
+  <UML2:Property owner="#/247" name="redefinedState" type="#/247"/>
+  <UML2:Property owner="#/26" name="guard" type="#/443"/>
+  <UML2:Class name="SaSchedObs"/>
+  <UML2:Property owner="#/108" name="area" type="#/1495"/>
+  <UML2:Property owner="#/437" name="convFactor" type="#/908"/>
+  <UML2:Property owner="#/779" name="servCount" type="#/730"/>
+  <UML2:Property owner="#/55" name="edge" type="#/1367" association="#/1188"/>
+  <UML2:Class name="SwSynchronizationResource"/>
+  <UML2:Property owner="#/52" name="deploymentLocation" type="#/371"/>
+  <UML2:Class name="ParameterSet"/>
+  <UML2:Property owner="#/1345" name="on" type="#/31"/>
+  <UML2:Property owner="#/664" name="description" type="#/914"/>
+  <UML2:Class name="PaStep"/>
+  <UML2:Property owner="#/358" name="allocatedTo" type="#/899"/>
+  <UML2:Property owner="#/723" name="argument" type="#/683"/>
+  <UML2:Property owner="#/913" name="node" type="#/466" association="#/700"/>
+  <UML2:Class name="HwPowerSupply"/>
+  <UML2:Class name="Artifact"/>
+  <UML2:Property owner="#/139" name="parameterSubstitution" type="#/1400" association="#/1028"/>
+  <UML2:Class name="GeneralizationSet"/>
+  <UML2:Property owner="#/591" name="lowerValue" type="#/648"/>
+  <UML2:Property owner="#/807" name="joinServices" type="#/1262"/>
+  <UML2:Property owner="#/211" name="associativity" type="#/1088"/>
+  <UML2:Property owner="#/1435" name="base_Abstraction" type="#/1011"/>
+  <UML2:Class name="Allocate"/>
+  <UML2:Property owner="#/273" name="main" type="#/546"/>
+  <UML2:Property owner="#/247" name="doActivity" type="#/1178"/>
+  <UML2:Property owner="#/1275" name="patternShape" type="#/575"/>
+  <UML2:Class name="PoolingParameters"/>
+  <UML2:Property owner="#/710" name="generator" type="#/608"/>
+  <UML2:Property owner="#/502" name="package" type="#/456" association="#/797"/>
+  <UML2:Property owner="#/21" name="base_Class" type="#/451"/>
+  <UML2:Property owner="#/1428" name="nestedArtifact" type="#/1428"/>
+  <UML2:DataType owner="#/907" name="Integer"/>
+  <UML2:Property owner="#/21" name="maxValAttrib" type="#/745"/>
+  <UML2:Property owner="#/1470" name="precision" type="#/908"/>
+  <UML2:Class name="HwTimer"/>
+  <UML2:Property owner="#/710" name="base_NamedElement" type="#/802"/>
+  <UML2:Property owner="#/432" name="base_Collaboration" type="#/133"/>
+  <UML2:Property owner="#/776" name="isReadOnly" type="#/522"/>
+  <UML2:Property owner="#/1080" name="nbColumns" type="#/1088"/>
+  <UML2:Property owner="#/889" name="base_Classifier" type="#/507"/>
+  <UML2:Property owner="#/722" name="matrixElem" type="#/127"/>
+  <UML2:Property owner="#/1184" name="base_DataType" type="#/1301"/>
+  <UML2:Class name="PeriodicServerParameters"/>
+  <UML2:Property owner="#/214" name="interpretation" type="#/1089"/>
+  <UML2:Property owner="#/802" name="nameExpression" type="#/1124"/>
+  <UML2:Property owner="#/745" name="class" type="#/451"/>
+  <UML2:Property owner="#/109" name="adressSpace" type="#/833"/>
+  <UML2:Property owner="#/286" name="base_NamedElement" type="#/802"/>
+  <UML2:Property owner="#/196" name="base_Message" type="#/313"/>
+  <UML2:Property owner="#/1176" name="readServices" type="#/1262"/>
+  <UML2:Class name="SwMutualExclusionResource"/>
+  <UML2:Class name="Manifestation"/>
+  <UML2:Property owner="#/282" name="signal" type="#/472"/>
+  <UML2:Property owner="#/315" name="base_BehavioralFeature" type="#/1262"/>
+  <UML2:Property owner="#/750" name="value" type="#/1444"/>
+  <UML2:Property owner="#/1471" name="isIntraPartitionInteraction" type="#/522"/>
+  <UML2:Class name="NFP_Percentage"/>
+  <UML2:Class name="NFP_BoundedDuration"/>
+  <UML2:Class name="SwInteractionResource" isAbstract="true"/>
+  <UML2:Property owner="#/466" name="inInterruptibleRegion" type="#/47" association="#/841"/>
+  <UML2:Class name="HwMMU"/>
+  <UML2:Property owner="#/1469" name="unit" type="#/371"/>
+  <UML2:Property owner="#/196" name="absDl" type="#/75"/>
+  <UML2:Class name="Profile"/>
+  <UML2:Class name="ConnectionPointReference"/>
+  <UML2:Class name="ParameterableElement" isAbstract="true"/>
+  <UML2:Property owner="#/196" name="utility" type="#/10"/>
+  <UML2:Property owner="#/684" name="memoryBlockSizeElements" type="#/833"/>
+  <UML2:Property owner="#/1226" name="redefinedPort" type="#/1226"/>
+  <UML2:Property owner="#/315" name="preemptT" type="#/1005"/>
+  <UML2:Enumeration name="MessageResourceKind"/>
+  <UML2:Class name="DeviceBroker"/>
+  <UML2:Property owner="#/857" name="managedMemories" type="#/1179"/>
+  <UML2:Class name="ClockConstraint"/>
+  <UML2:Property owner="#/1204" name="base_Property" type="#/745"/>
+  <UML2:Class name="UseCase"/>
+  <UML2:Property owner="#/88" name="transmMode" type="#/748"/>
+  <UML2:Property owner="#/456" name="nestingPackage" type="#/456" association="#/622"/>
+  <UML2:Property owner="#/471" name="poolSize" type="#/750"/>
+  <UML2:Property owner="#/246" name="interarrivals" type="#/1005"/>
+  <UML2:Property owner="#/1413" name="overlaps" type="#/750"/>
+  <UML2:Property owner="#/1430" name="generalization" type="#/253" association="#/1277"/>
+  <UML2:Class name="NFP_Area"/>
+  <UML2:Class name="RtService"/>
+</xmi:XMI>

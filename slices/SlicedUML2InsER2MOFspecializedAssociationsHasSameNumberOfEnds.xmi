@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsER2MOFspecializedAssociationsHasSameNumberOfEnds.ecore">
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/104 #/119"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/35 #/36"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/105 #/20"/>
+  <UML2:Association memberEnd="#/64 #/85"/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/98 #/69"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/10 #/27"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/50 #/73"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/25 #/23"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/46 #/4"/>
+  <UML2:Association memberEnd="#/94 #/5"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/12 #/39"/>
+  <UML2:Association memberEnd="#/120 #/9"/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/99 #/40"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/111 #/79"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/57 #/63"/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/29 #/71"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/92 #/67"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/48 #/54"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/68 #/34"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/11 #/26"/>
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/87 #/51"/>
+  <UML2:Class/>
+  <UML2:PrimitiveType/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/103 #/88"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/124 #/72"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/49 #/18"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/56 #/31"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:PrimitiveType/>
+  <UML2:PrimitiveType/>
+  <UML2:Association memberEnd="#/125 #/59"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/61 #/75"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/1 #/19"/>
+  <UML2:Association memberEnd="#/60 #/21"/>
+  <UML2:Association memberEnd="#/3 #/45"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/80 #/28"/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/115 #/96"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/109 #/53"/>
+  <UML2:Association memberEnd="#/47 #/8"/>
+  <UML2:Property/>
+  <UML2:Property/>
+</xmi:XMI>

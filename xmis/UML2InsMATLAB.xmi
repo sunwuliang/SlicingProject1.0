@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:UML2="http:///UML2.ecore">
+  <UML2:Class ownedElement="#/52" name="Vector" superClass="#/120"/>
+  <UML2:Class ownedElement="#/151 #/182 #/93 #/71 #/22 #/200 #/18 #/133" name="Block"
+      superClass="#/128"/>
+  <UML2:Property owner="#/98" name="matlab" type="#/45"/>
+  <UML2:Class ownedElement="#/57" name="OutputPort" superClass="#/236"/>
+  <UML2:Property owner="#/7" name="scope" type="#/239"/>
+  <UML2:Property owner="#/128" name="model" type="#/98" association="#/210"/>
+  <UML2:Property owner="#/53" name="value" type="#/239"/>
+  <UML2:Class ownedElement="#/29 #/26 #/4 #/196 #/201 #/96 #/83 #/248 #/230 #/28"
+      name="Data"/>
+  <UML2:Association owner="#/32" name="chartjunctions" memberEnd="#/227 #/113"/>
+  <UML2:Property owner="#/98" name="annotationDefaults" type="#/66" association="#/140"/>
+  <UML2:Property owner="#/236" name="number" type="#/239"/>
+  <UML2:Property owner="#/109" name="branchs" type="#/39" association="#/190"/>
+  <UML2:Property owner="#/87" name="name" type="#/239"/>
+  <UML2:Association owner="#/32" name="charttransitions" memberEnd="#/233 #/162"/>
+  <UML2:Class ownedElement="#/136 #/208 #/145" name="Primitive" superClass="#/1"/>
+  <UML2:Property owner="#/164" name="ranges" type="#/167" association="#/195"/>
+  <UML2:Property owner="#/238" name="parameters" type="#/120" association="#/119"/>
+  <UML2:Property owner="#/107" name="_id" type="#/239"/>
+  <UML2:Property owner="#/1" name="mySystem" type="#/138" association="#/30"/>
+  <UML2:Enumeration name="TrueFalse">
+    <ownedLiteral name="True"/>
+    <ownedLiteral name="False"/>
+  </UML2:Enumeration>
+  <UML2:Class ownedElement="#/23" name="INteger" superClass="#/120"/>
+  <UML2:Property owner="#/128" name="blockDefaults" type="#/239"/>
+  <UML2:Property owner="#/1" name="tag" type="#/239"/>
+  <UML2:Property owner="#/20" name="value" type="#/239"/>
+  <UML2:Class ownedElement="#/169 #/65 #/58 #/82 #/61 #/240 #/213 #/233 #/85" name="Transition"/>
+  <UML2:Class ownedElement="#/197" name="TransitionTerminal"/>
+  <UML2:Property owner="#/7" name="id" type="#/239"/>
+  <UML2:Property owner="#/193" name="codeFlags" type="#/239"/>
+  <UML2:Property owner="#/7" name="machine" type="#/130" association="#/43"/>
+  <UML2:Property owner="#/7" name="name" type="#/239"/>
+  <UML2:Association owner="#/32" name="blocksmySystem" memberEnd="#/231 #/18"/>
+  <UML2:Property owner="#/247" name="machine" type="#/130" association="#/139"/>
+  <UML2:Package ownedElement="#/41 #/147 #/70 #/185 #/195 #/175 #/194 #/99 #/217 #/206 #/228 #/172 #/49 #/76 #/246 #/48 #/125 #/157 #/43 #/69 #/202 #/13 #/67 #/8 #/210 #/190 #/139 #/203 #/119 #/30 #/111 #/160 #/168 #/234 #/225 #/140"
+      name="MATLAB" member="#/19 #/45 #/128 #/98 #/66 #/103 #/138 #/131 #/1 #/110 #/75 #/90 #/184 #/39 #/216 #/14 #/236 #/238 #/144 #/36 #/120 #/3 #/53 #/54 #/20 #/223 #/60 #/215 #/0 #/212 #/109 #/130 #/170 #/24 #/87 #/7 #/247 #/193 #/38 #/107 #/164 #/167 #/55 #/166 #/25 #/91"
+      ownedType="#/239 #/137 #/226"/>
+  <UML2:Property owner="#/212" name="id" type="#/239"/>
+  <UML2:Property owner="#/131" name="system" type="#/138" association="#/69"/>
+  <UML2:Property owner="#/164" name="data" type="#/7" association="#/125"/>
+  <UML2:Class name="Normal" superClass="#/131"/>
+  <UML2:Property owner="#/215" name="value" type="#/239"/>
+  <UML2:Class ownedElement="#/245 #/186 #/146 #/62 #/199 #/72 #/113 #/89 #/162 #/222 #/148"
+      name="Chart"/>
+  <UML2:Class ownedElement="#/143 #/220 #/102" name="Branch"/>
+  <UML2:Property owner="#/170" name="state" type="#/107" association="#/175"/>
+  <UML2:Association owner="#/32" name="eventsmachine" memberEnd="#/241 #/80"/>
+  <UML2:Property owner="#/91" name="models" type="#/98" association="#/228"/>
+  <UML2:Association owner="#/32" name="datamachine" memberEnd="#/187 #/28"/>
+  <UML2:Property owner="#/60" name="value" type="#/19"/>
+  <UML2:Class ownedElement="#/88" name="Matlab"/>
+  <UML2:Property owner="#/166" name="machines" type="#/130" association="#/185"/>
+  <UML2:Property owner="#/138" name="model" type="#/98" association="#/225"/>
+  <UML2:Association owner="#/32" name="portsportBlock" memberEnd="#/133 #/152"/>
+  <UML2:Association owner="#/32" name="simulinkstateFlows" memberEnd="#/161 #/180"/>
+  <UML2:Property owner="#/55" name="props" type="#/164" association="#/194"/>
+  <UML2:Property owner="#/110" name="text" type="#/239"/>
+  <UML2:Property owner="#/0" name="value" type="#/239"/>
+  <UML2:Class ownedElement="#/6" name="Type" superClass="#/120"/>
+  <UML2:Class ownedElement="#/108" name="Double" superClass="#/120"/>
+  <UML2:Class ownedElement="#/106 #/235 #/50" name="Array"/>
+  <UML2:Property owner="#/98" name="blockDefaults" type="#/128" association="#/210"/>
+  <UML2:Property owner="#/3" name="owningLine" type="#/75" association="#/168"/>
+  <UML2:Property owner="#/24" name="id" type="#/239"/>
+  <UML2:Property owner="#/66" name="annotationDefaults" type="#/239"/>
+  <UML2:Class ownedElement="#/44" name="BOolean" superClass="#/120"/>
+  <UML2:Property owner="#/24" name="condition" type="#/239"/>
+  <UML2:Property owner="#/38" name="decomposotion" type="#/239"/>
+  <UML2:Property owner="#/138" name="name" type="#/239"/>
+  <UML2:Property owner="#/170" name="id" type="#/239"/>
+  <UML2:Property owner="#/24" name="dataLimites" type="#/239"/>
+  <UML2:Class ownedElement="#/59 #/97" name="AnnotationDefaults"/>
+  <UML2:Association owner="#/32" name="statedata" memberEnd="#/248 #/101"/>
+  <UML2:Property owner="#/107" name="chart" type="#/38" association="#/99"/>
+  <UML2:Association owner="#/32" name="systemparentSubsystem" memberEnd="#/34 #/127"/>
+  <UML2:Association owner="#/32" name="lineDefaultsmodel" memberEnd="#/219 #/118"/>
+  <UML2:Property owner="#/1" name="priority" type="#/239"/>
+  <UML2:Property owner="#/38" name="sampleTime" type="#/239"/>
+  <UML2:Property owner="#/120" name="le_reference" type="#/238" association="#/119"/>
+  <UML2:Property owner="#/184" name="owningDirectLine" type="#/90" association="#/160"/>
+  <UML2:Class ownedElement="#/124 #/179 #/149 #/112" name="Line" superClass="#/103"/>
+  <UML2:Association owner="#/32" name="systemlines" memberEnd="#/112 #/204"/>
+  <UML2:Property owner="#/193" name="machine" type="#/130" association="#/111"/>
+  <UML2:Property owner="#/193" name="codeCommand" type="#/239"/>
+  <UML2:Property owner="#/167" name="minimum" type="#/239"/>
+  <UML2:Property owner="#/87" name="machine" type="#/130" association="#/41"/>
+  <UML2:Property owner="#/170" name="_id" type="#/239"/>
+  <UML2:Property owner="#/24" name="trigger" type="#/239"/>
+  <UML2:Property owner="#/7" name="props" type="#/164" association="#/125"/>
+  <UML2:Property owner="#/193" name="makeCommand" type="#/239"/>
+  <UML2:Property owner="#/24" name="state" type="#/107" association="#/202"/>
+  <UML2:Property owner="#/247" name="_id" type="#/239"/>
+  <UML2:Class ownedElement="#/12 #/114 #/126 #/117 #/181 #/80 #/156 #/171" name="Event"/>
+  <UML2:Property owner="#/45" name="model" type="#/98"/>
+  <UML2:Property owner="#/38" name="events" type="#/87" association="#/217"/>
+  <UML2:Class ownedElement="#/224" name="DirectLine" superClass="#/75"/>
+  <UML2:Class ownedElement="#/229 #/180 #/42" name="Simulink"/>
+  <UML2:Property owner="#/103" name="lineDefaults" type="#/239"/>
+  <UML2:Property owner="#/1" name="description" type="#/239"/>
+  <UML2:Property owner="#/130" name="id" type="#/239"/>
+  <UML2:Property owner="#/238" name="sourceBlock" type="#/239"/>
+  <UML2:Property owner="#/7" name="dataType" type="#/239"/>
+  <UML2:Property owner="#/66" name="model" type="#/98" association="#/140"/>
+  <UML2:Class ownedElement="#/191 #/2 #/9 #/207 #/56 #/219 #/177" name="Model"/>
+  <UML2:Association owner="#/32" name="stateschart" memberEnd="#/148 #/68"/>
+  <UML2:Property owner="#/107" name="exitAction" type="#/239"/>
+  <UML2:Property owner="#/107" name="data" type="#/7" association="#/67"/>
+  <UML2:Property owner="#/39" name="nestedBranch" type="#/109" association="#/190"/>
+  <UML2:Class ownedElement="#/92 #/118" name="LineDefaults"/>
+  <UML2:Property owner="#/247" name="id" type="#/239"/>
+  <UML2:Property owner="#/120" name="primitive" type="#/14" association="#/246"/>
+  <UML2:Property owner="#/55" name="firstIndex" type="#/239"/>
+  <UML2:Class ownedElement="#/214 #/209 #/17 #/132 #/178 #/100 #/165 #/163 #/122 #/211 #/159 #/123 #/115 #/101 #/68 #/218"
+      name="State"/>
+  <UML2:Property owner="#/54" name="value" type="#/239"/>
+  <UML2:Class ownedElement="#/11" name="NestedBranch" superClass="#/39"/>
+  <UML2:Class ownedElement="#/174 #/51 #/189" name="Annotation" superClass="#/66"/>
+  <UML2:Association owner="#/32" name="targetsmachine" memberEnd="#/158 #/77"/>
+  <UML2:Property owner="#/75" name="system" type="#/138" association="#/76"/>
+  <UML2:Property owner="#/38" name="junctions" type="#/170" association="#/8"/>
+  <UML2:Property owner="#/87" name="id" type="#/239"/>
+  <UML2:Property owner="#/107" name="transitions" type="#/24" association="#/202"/>
+  <UML2:Property owner="#/167" name="maximum" type="#/239"/>
+  <UML2:Property owner="#/87" name="description" type="#/239"/>
+  <UML2:Property owner="#/103" name="model" type="#/98" association="#/70"/>
+  <UML2:Association owner="#/32" name="le_referenceparameters" memberEnd="#/73 #/16"/>
+  <UML2:Class ownedElement="#/142 #/73 #/105" name="Parameter"/>
+  <UML2:Property owner="#/130" name="stateFlow" type="#/166" association="#/185"/>
+  <UML2:Property owner="#/107" name="decomposition" type="#/239"/>
+  <UML2:Property owner="#/107" name="events" type="#/87" association="#/172"/>
+  <UML2:Property owner="#/75" name="points" type="#/239"/>
+  <UML2:Association owner="#/32" name="dataprops" memberEnd="#/35 #/83"/>
+  <UML2:Property owner="#/87" name="scope" type="#/239"/>
+  <UML2:Property owner="#/138" name="parentSubsystem" type="#/131" association="#/69"/>
+  <UML2:Class ownedElement="#/21 #/5" name="BlockDefaults"/>
+  <UML2:Property owner="#/184" name="owningDirectBranch" type="#/212" association="#/203"/>
+  <UML2:Class ownedElement="#/192 #/94 #/241 #/187 #/183 #/158 #/121" name="Machine"/>
+  <UML2:Class ownedElement="#/34" name="Subsystem" superClass="#/1"/>
+  <UML2:Property owner="#/107" name="type" type="#/239"/>
+  <UML2:Property owner="#/1" name="ports" type="#/236" association="#/48"/>
+  <UML2:Property owner="#/170" name="position" type="#/239"/>
+  <UML2:Property owner="#/223" name="value" type="#/239"/>
+  <UML2:Property owner="#/14" name="id" type="#/239"/>
+  <UML2:PrimitiveType name="EInt" package="#/32"/>
+  <UML2:Class ownedElement="#/63 #/231 #/204 #/155 #/47 #/127" name="System"/>
+  <UML2:Association owner="#/32" name="machineinstances" memberEnd="#/31 #/183"/>
+  <UML2:Association owner="#/32" name="modelannotationDefaults" memberEnd="#/97 #/9"/>
+  <UML2:Property owner="#/164" name="initialValue" type="#/239"/>
+  <UML2:Property owner="#/120" name="name" type="#/239"/>
+  <UML2:Property owner="#/39" name="points" type="#/239"/>
+  <UML2:Class name="Masked" superClass="#/131"/>
+  <UML2:Property owner="#/14" name="refPort" type="#/236" association="#/157"/>
+  <UML2:Property owner="#/38" name="_id" type="#/239"/>
+  <UML2:Association owner="#/32" name="branchsbranchedLine" memberEnd="#/237 #/220"/>
+  <UML2:Property owner="#/38" name="states" type="#/107" association="#/99"/>
+  <UML2:Property owner="#/75" name="srcPort" type="#/3" association="#/168"/>
+  <UML2:Property owner="#/167" name="props" type="#/164" association="#/195"/>
+  <UML2:Property owner="#/1" name="name" type="#/239"/>
+  <UML2:Property owner="#/236" name="portBlock" type="#/1" association="#/48"/>
+  <UML2:Property owner="#/193" name="id" type="#/239"/>
+  <UML2:Property owner="#/193" name="description" type="#/239"/>
+  <UML2:Property owner="#/138" name="annotations" type="#/110" association="#/206"/>
+  <UML2:Property owner="#/87" name="chart" type="#/38" association="#/217"/>
+  <UML2:Association owner="#/32" name="refPortprimitive" memberEnd="#/145 #/242"/>
+  <UML2:Property owner="#/130" name="targets" type="#/193" association="#/111"/>
+  <UML2:Property owner="#/107" name="junctions" type="#/170" association="#/175"/>
+  <UML2:Association owner="#/32" name="owningDirectLinedestPort1" memberEnd="#/74 #/224"/>
+  <UML2:Property owner="#/166" name="simulink" type="#/91" association="#/49"/>
+  <UML2:Property owner="#/38" name="transitions" type="#/24" association="#/13"/>
+  <UML2:Property owner="#/107" name="eventActions" type="#/239"/>
+  <UML2:Class ownedElement="#/141 #/205 #/15 #/35" name="Props"/>
+  <UML2:Property owner="#/107" name="duringAction" type="#/239"/>
+  <UML2:Class ownedElement="#/198 #/46 #/161" name="StateFlow"/>
+  <UML2:Class ownedElement="#/116 #/79 #/150" name="Range"/>
+  <UML2:Association owner="#/32" name="owningLinesrcPort" memberEnd="#/57 #/149"/>
+  <UML2:Property owner="#/24" name="_id" type="#/239"/>
+  <UML2:Class ownedElement="#/81 #/64 #/232 #/134 #/40 #/227" name="Junction"/>
+  <UML2:Property owner="#/87" name="state" type="#/107" association="#/172"/>
+  <UML2:Association owner="#/32" name="eventsstate" memberEnd="#/123 #/171"/>
+  <UML2:Property owner="#/193" name="name" type="#/239"/>
+  <UML2:Property owner="#/110" name="position" type="#/239"/>
+  <UML2:Association owner="#/32" name="statejunctions" memberEnd="#/40 #/159"/>
+  <UML2:Property owner="#/247" name="name" type="#/239"/>
+  <UML2:Property owner="#/98" name="simulink" type="#/91" association="#/228"/>
+  <UML2:Property owner="#/107" name="entryAction" type="#/239"/>
+  <UML2:Property owner="#/75" name="id" type="#/239"/>
+  <UML2:Property owner="#/91" name="stateFlows" type="#/166" association="#/49"/>
+  <UML2:Property owner="#/87" name="trigger" type="#/239"/>
+  <UML2:Property owner="#/1" name="blockType" type="#/239"/>
+  <UML2:Property owner="#/130" name="instances" type="#/247" association="#/139"/>
+  <UML2:Class ownedElement="#/74 #/129" name="InputPort" superClass="#/236"/>
+  <UML2:Association owner="#/32" name="machinesstateFlow" memberEnd="#/46 #/121"/>
+  <UML2:Property owner="#/38" name="id" type="#/239"/>
+  <UML2:Property owner="#/130" name="data" type="#/7" association="#/43"/>
+  <UML2:Property owner="#/212" name="destPort" type="#/184" association="#/203"/>
+  <UML2:Property owner="#/110" name="system" type="#/138" association="#/206"/>
+  <UML2:Association owner="#/32" name="branchsnestedBranch" memberEnd="#/11 #/102"/>
+  <UML2:Property owner="#/98" name="name" type="#/239"/>
+  <UML2:Property owner="#/130" name="name" type="#/239"/>
+  <UML2:Class ownedElement="#/173 #/153 #/78 #/154 #/84 #/27 #/221 #/77" name="Target"/>
+  <UML2:Association owner="#/32" name="arraysprops" memberEnd="#/205 #/50"/>
+  <UML2:Association owner="#/32" name="rangesprops" memberEnd="#/15 #/150"/>
+  <UML2:Property owner="#/7" name="description" type="#/239"/>
+  <UML2:Property owner="#/25" name="_id" type="#/239"/>
+  <UML2:Property owner="#/166" name="stateFlow" type="#/239"/>
+  <UML2:Property owner="#/38" name="updateMethode" type="#/239"/>
+  <UML2:Property owner="#/1" name="position" type="#/239"/>
+  <UML2:Property owner="#/7" name="units" type="#/239"/>
+  <UML2:Association owner="#/32" name="statetransitions" memberEnd="#/85 #/115"/>
+  <UML2:Association owner="#/32" name="destPortowningDirectBranch" memberEnd="#/188 #/129"/>
+  <UML2:Property owner="#/138" name="lines" type="#/75" association="#/76"/>
+  <UML2:Property owner="#/164" name="arrays" type="#/55" association="#/194"/>
+  <UML2:Association owner="#/32" name="systemannotations" memberEnd="#/189 #/155"/>
+  <UML2:Property owner="#/98" name="system" type="#/138" association="#/225"/>
+  <UML2:Property owner="#/14" name="parameters" type="#/120" association="#/246"/>
+  <UML2:Property owner="#/107" name="id" type="#/239"/>
+  <UML2:Association owner="#/32" name="modelblockDefaults" memberEnd="#/5 #/56"/>
+  <UML2:Property owner="#/107" name="position" type="#/239"/>
+  <UML2:Class ownedElement="#/33 #/188" name="DirectBranch" superClass="#/39"/>
+  <UML2:Property owner="#/24" name="action" type="#/239"/>
+  <UML2:Property owner="#/107" name="name" type="#/239"/>
+  <UML2:Class ownedElement="#/37" name="Text" superClass="#/120"/>
+  <UML2:Class ownedElement="#/237" name="BranchedLine" superClass="#/75"/>
+  <UML2:Association owner="#/32" name="eventschart" memberEnd="#/89 #/156"/>
+  <UML2:Property owner="#/107" name="states" type="#/107"/>
+  <UML2:Property owner="#/98" name="lineDefaults" type="#/103" association="#/70"/>
+  <UML2:Property owner="#/39" name="branchedLine" type="#/216" association="#/147"/>
+  <UML2:Property owner="#/193" name="checksumOld" type="#/239"/>
+  <UML2:Property owner="#/38" name="data" type="#/7" association="#/234"/>
+  <UML2:Class ownedElement="#/135" name="Enumeration" superClass="#/120"/>
+  <UML2:Property owner="#/90" name="destPort1" type="#/184" association="#/160"/>
+  <UML2:Association owner="#/32" name="modelsystem" memberEnd="#/47 #/207"/>
+  <UML2:PrimitiveType name="EBoolean" package="#/32"/>
+  <UML2:Property owner="#/170" name="chart" type="#/38" association="#/8"/>
+  <UML2:Association owner="#/32" name="simulinkmodels" memberEnd="#/177 #/42"/>
+  <UML2:Property owner="#/91" name="simulink" type="#/239"/>
+  <UML2:Property owner="#/7" name="chart" type="#/38" association="#/234"/>
+  <UML2:Property owner="#/138" name="blocks" type="#/1" association="#/30"/>
+  <UML2:Property owner="#/170" name="type" type="#/239"/>
+  <UML2:Property owner="#/24" name="chart" type="#/38" association="#/13"/>
+  <UML2:Association owner="#/32" name="chartdata" memberEnd="#/230 #/222"/>
+  <UML2:Property owner="#/55" name="size" type="#/239"/>
+  <UML2:Class ownedElement="#/243 #/10 #/152 #/242" name="Port"/>
+  <UML2:Property owner="#/216" name="branchs" type="#/39" association="#/147"/>
+  <UML2:Class ownedElement="#/244 #/95 #/16" name="Reference" superClass="#/1"/>
+  <UML2:PrimitiveType name="EString" package="#/32"/>
+  <UML2:Property owner="#/24" name="conditionAction" type="#/239"/>
+  <UML2:Property owner="#/130" name="events" type="#/87" association="#/41"/>
+  <UML2:Property owner="#/236" name="primitive" type="#/14" association="#/157"/>
+  <UML2:Property owner="#/236" name="id" type="#/239"/>
+  <UML2:Property owner="#/238" name="sourceType" type="#/239"/>
+  <UML2:Property owner="#/38" name="name" type="#/239"/>
+  <UML2:Association owner="#/32" name="parametersprimitive" memberEnd="#/208 #/105"/>
+  <UML2:Class ownedElement="#/86 #/104 #/176 #/31" name="Instance"/>
+  <UML2:Property owner="#/7" name="state" type="#/107" association="#/67"/>
+</xmi:XMI>

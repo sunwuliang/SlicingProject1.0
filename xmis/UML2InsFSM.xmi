@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:UML2="http:///UML2.ecore">
+  <UML2:Property owner="#/14" name="stateMachine" type="#/28" association="#/15"/>
+  <UML2:PrimitiveType name="EString" package="#/2"/>
+  <UML2:Package ownedElement="#/31 #/10 #/9 #/15 #/3 #/21" name="FSM" member="#/8 #/5 #/14 #/28 #/22 #/16"
+      ownedType="#/1 #/30 #/26"/>
+  <UML2:Association owner="#/2" name="rootFolderstateMachine" memberEnd="#/19 #/6"/>
+  <UML2:Property owner="#/22" name="name" type="#/1"/>
+  <UML2:Class ownedElement="#/27 #/7" name="Transition" superClass="#/8"/>
+  <UML2:Property owner="#/22" name="stateMachine" type="#/28" association="#/3"/>
+  <UML2:Property owner="#/5" name="associationStateState" type="#/16" association="#/31"/>
+  <UML2:Class ownedElement="#/18 #/17" name="MgaObject"/>
+  <UML2:Association owner="#/2" name="srcTransitionassociationStateStatesrc" memberEnd="#/11 #/29"/>
+  <UML2:Association owner="#/2" name="stateMachinetransition" memberEnd="#/27 #/25"/>
+  <UML2:Property owner="#/16" name="srcTransition" type="#/14" association="#/9"/>
+  <UML2:Property owner="#/14" name="associationStateStatedst" type="#/16" association="#/21"/>
+  <UML2:Property owner="#/28" name="state" type="#/14" association="#/15"/>
+  <UML2:Class ownedElement="#/0 #/12 #/29" name="State" superClass="#/8"/>
+  <UML2:Association owner="#/2" name="stateMachinestate" memberEnd="#/0 #/13"/>
+  <UML2:Class ownedElement="#/23 #/20 #/11" name="AssociationStateState"/>
+  <UML2:Property owner="#/8" name="position" type="#/1"/>
+  <UML2:Property owner="#/8" name="name" type="#/1"/>
+  <UML2:Property owner="#/28" name="rootFolder" type="#/22" association="#/3"/>
+  <UML2:Property owner="#/16" name="dstTransition" type="#/14" association="#/21"/>
+  <UML2:Association owner="#/2" name="dstTransitionassociationStateStatedst" memberEnd="#/20 #/12"/>
+  <UML2:Class ownedElement="#/4 #/24 #/6" name="RootFolder"/>
+  <UML2:Property owner="#/16" name="transition" type="#/5" association="#/31"/>
+  <UML2:Property owner="#/22" name="rootFolders" type="#/22"/>
+  <UML2:Property owner="#/28" name="transition" type="#/5" association="#/10"/>
+  <UML2:PrimitiveType name="EBoolean" package="#/2"/>
+  <UML2:Property owner="#/5" name="stateMachine" type="#/28" association="#/10"/>
+  <UML2:Class ownedElement="#/19 #/13 #/25" name="StateMachine" superClass="#/8"/>
+  <UML2:Property owner="#/14" name="associationStateStatesrc" type="#/16" association="#/9"/>
+  <UML2:PrimitiveType name="EInt" package="#/2"/>
+  <UML2:Association owner="#/2" name="associationStateStatetransition" memberEnd="#/7 #/23"/>
+</xmi:XMI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsHTML.ecore">
+  <UML2:Property owner="#/48" name="name" type="#/55"/>
+  <UML2:Class name="UL"/>
+  <UML2:Property owner="#/38" name="vspace" type="#/55"/>
+  <UML2:Class name="SUB"/>
+  <UML2:Property owner="#/140" name="action" type="#/55"/>
+  <UML2:Association owner="#/26" name="headhtml" memberEnd="#/28 #/16"/>
+  <UML2:Class name="SMALL"/>
+  <UML2:Class name="NOEMBED"/>
+  <UML2:Property owner="#/36" name="headElements" type="#/63" association="#/163"/>
+  <UML2:Class name="H1"/>
+  <UML2:Property owner="#/158" name="marginwidth" type="#/55"/>
+  <UML2:Class name="PRE"/>
+  <UML2:Property owner="#/48" name="maxlength" type="#/55"/>
+  <UML2:Property owner="#/64" name="width" type="#/55"/>
+  <UML2:Property owner="#/115" name="style" type="#/55"/>
+  <UML2:Association owner="#/26" name="bodybodyElements" memberEnd="#/100 #/181"/>
+  <UML2:Property owner="#/36" name="html" type="#/96" association="#/5"/>
+  <UML2:Property owner="#/33" name="children" type="#/33" association="#/76"/>
+  <UML2:Class name="TABLEElement" isAbstract="true"/>
+  <UML2:Property owner="#/97" name="vlink" type="#/55"/>
+  <UML2:Property owner="#/23" name="name" type="#/55"/>
+  <UML2:Class name="TITLE"/>
+  <UML2:Property owner="#/136" name="ahref" type="#/55"/>
+  <UML2:Class name="PARAM"/>
+  <UML2:Class name="MAP"/>
+  <UML2:Property owner="#/110" name="ahref" type="#/55"/>
+  <UML2:Package name="HTML" member="#/96 #/33 #/36 #/63 #/169 #/21 #/97 #/46 #/9 #/129 #/77 #/173 #/57 #/168 #/84 #/61 #/101 #/11 #/114 #/6 #/3 #/124 #/49 #/161 #/138 #/70 #/24 #/110 #/42 #/38 #/7 #/115 #/136 #/72 #/120 #/18 #/73 #/125 #/111 #/117 #/140 #/48 #/31 #/95 #/144 #/93 #/133 #/1 #/159 #/135 #/151 #/85 #/64 #/23 #/180 #/88 #/158 #/154 #/29"/>
+  <UML2:Property owner="#/97" name="html" type="#/96" association="#/146"/>
+  <UML2:Property owner="#/96" name="head" type="#/36" association="#/5"/>
+  <UML2:Class name="IFRAME"/>
+  <UML2:Property owner="#/97" name="text" type="#/55"/>
+  <UML2:Class name="TEXTAREA"/>
+  <UML2:Property owner="#/158" name="marginheight" type="#/55"/>
+  <UML2:Class name="HTMLElement"/>
+  <UML2:PrimitiveType name="EInt"/>
+  <UML2:Property owner="#/158" name="noresize" type="#/55"/>
+  <UML2:Class name="HEAD"/>
+  <UML2:Property owner="#/144" name="selected" type="#/55"/>
+  <UML2:Class name="EMBED"/>
+  <UML2:Property owner="#/70" name="clear" type="#/55"/>
+  <UML2:Property owner="#/138" name="ismap" type="#/55"/>
+  <UML2:Property owner="#/31" name="name" type="#/55"/>
+  <UML2:Class name="STYLE"/>
+  <UML2:Property owner="#/18" name="background" type="#/55"/>
+  <UML2:Property owner="#/97" name="background" type="#/55"/>
+  <UML2:Association owner="#/26" name="trstable" memberEnd="#/141 #/106"/>
+  <UML2:Class name="BODYElement" isAbstract="true"/>
+  <UML2:Property owner="#/180" name="data" type="#/55"/>
+  <UML2:Class name="INPUT"/>
+  <UML2:Class name="STRIKE"/>
+  <UML2:Property owner="#/88" name="rows" type="#/55"/>
+  <UML2:Property owner="#/161" name="face" type="#/55"/>
+  <UML2:Property owner="#/158" name="scrolling" type="#/55"/>
+  <UML2:Property owner="#/138" name="alt" type="#/55"/>
+  <UML2:Property owner="#/138" name="usemap" type="#/55"/>
+  <UML2:PrimitiveType name="EString"/>
+  <UML2:Property owner="#/73" name="cellspacing" type="#/55"/>
+  <UML2:Class name="EM"/>
+  <UML2:Property owner="#/159" name="liValue" type="#/55"/>
+  <UML2:Property owner="#/138" name="border" type="#/55"/>
+  <UML2:Property owner="#/144" name="optionValue" type="#/55"/>
+  <UML2:Class name="I"/>
+  <UML2:Property owner="#/48" name="inputValue" type="#/55"/>
+  <UML2:Class name="HEADElement" isAbstract="true"/>
+  <UML2:Class name="APPLET"/>
+  <UML2:Property owner="#/169" name="ahref" type="#/55"/>
+  <UML2:PrimitiveType name="EBoolean"/>
+  <UML2:Property owner="#/161" name="size" type="#/55"/>
+  <UML2:Property owner="#/48" name="size" type="#/55"/>
+  <UML2:Property owner="#/111" name="colspan" type="#/55"/>
+  <UML2:Class name="BR"/>
+  <UML2:Property owner="#/38" name="src" type="#/55"/>
+  <UML2:Class name="DIV"/>
+  <UML2:Class name="TABLE"/>
+  <UML2:Property owner="#/72" name="align" type="#/55"/>
+  <UML2:Property owner="#/111" name="align" type="#/55"/>
+  <UML2:Association owner="#/26" name="childrenparent" memberEnd="#/17 #/143"/>
+  <UML2:Class name="H3"/>
+  <UML2:Property owner="#/111" name="tr" type="#/125" association="#/176"/>
+  <UML2:Property owner="#/64" name="height" type="#/55"/>
+  <UML2:Property owner="#/38" name="border" type="#/55"/>
+  <UML2:Property owner="#/97" name="bgcolor" type="#/55"/>
+  <UML2:Property owner="#/169" name="title" type="#/55"/>
+  <UML2:Property owner="#/140" name="method" type="#/55"/>
+  <UML2:Class name="B"/>
+  <UML2:Class name="DD"/>
+  <UML2:Property owner="#/138" name="hspace" type="#/55"/>
+  <UML2:Property owner="#/38" name="align" type="#/55"/>
+  <UML2:Class name="FRAMESET"/>
+  <UML2:Property owner="#/180" name="id" type="#/55"/>
+  <UML2:Property owner="#/23" name="paramValue" type="#/55"/>
+  <UML2:Property owner="#/136" name="name" type="#/55"/>
+  <UML2:Property owner="#/138" name="width" type="#/55"/>
+  <UML2:Class name="ListElement" isAbstract="true"/>
+  <UML2:Property owner="#/63" name="head" type="#/36" association="#/163"/>
+  <UML2:Class name="SELECT"/>
+  <UML2:Class name="HTML"/>
+  <UML2:Class name="BODY"/>
+  <UML2:Property owner="#/48" name="checked" type="#/55"/>
+  <UML2:Property owner="#/158" name="src" type="#/55"/>
+  <UML2:Property owner="#/46" name="body" type="#/97" association="#/15"/>
+  <UML2:Class name="TT"/>
+  <UML2:Property owner="#/95" name="size" type="#/55"/>
+  <UML2:Property owner="#/180" name="type" type="#/55"/>
+  <UML2:Property owner="#/48" name="src" type="#/55"/>
+  <UML2:Property owner="#/38" name="height" type="#/55"/>
+  <UML2:Property owner="#/125" name="table" type="#/73" association="#/45"/>
+  <UML2:Property owner="#/38" name="hspace" type="#/55"/>
+  <UML2:Property owner="#/161" name="color" type="#/55"/>
+  <UML2:Property owner="#/96" name="body" type="#/97" association="#/146"/>
+  <UML2:Class name="AREA"/>
+  <UML2:Class name="TD"/>
+  <UML2:Property owner="#/88" name="cols" type="#/55"/>
+  <UML2:Property owner="#/31" name="cols" type="#/55"/>
+  <UML2:Class name="BIG"/>
+  <UML2:Class name="SPAN"/>
+  <UML2:Property owner="#/110" name="coords" type="#/55"/>
+  <UML2:Class name="TH"/>
+  <UML2:Property owner="#/48" name="align" type="#/55"/>
+  <UML2:Property owner="#/110" name="shape" type="#/55"/>
+  <UML2:Class name="P"/>
+  <UML2:Property owner="#/125" name="align" type="#/55"/>
+  <UML2:Property owner="#/111" name="width" type="#/55"/>
+  <UML2:Property owner="#/88" name="framespacing" type="#/55"/>
+  <UML2:Class name="SUP"/>
+  <UML2:Class name="TR"/>
+  <UML2:Property owner="#/18" name="bgcolor" type="#/55"/>
+  <UML2:Property owner="#/169" name="rel" type="#/55"/>
+  <UML2:Property owner="#/138" name="align" type="#/55"/>
+  <UML2:Class name="H2"/>
+  <UML2:Property owner="#/64" name="applet" type="#/55"/>
+  <UML2:Property owner="#/138" name="height" type="#/55"/>
+  <UML2:Property owner="#/97" name="alink" type="#/55"/>
+  <UML2:Class name="OL"/>
+  <UML2:Property owner="#/169" name="type" type="#/55"/>
+  <UML2:Class name="DL"/>
+  <UML2:Class name="A"/>
+  <UML2:Property owner="#/111" name="rowspan" type="#/55"/>
+  <UML2:Class name="IMG"/>
+  <UML2:Property owner="#/38" name="width" type="#/55"/>
+  <UML2:Class name="FORM"/>
+  <UML2:Property owner="#/73" name="trs" type="#/125" association="#/45"/>
+  <UML2:Property owner="#/138" name="vspace" type="#/55"/>
+  <UML2:Property owner="#/33" name="parent" type="#/33" association="#/76"/>
+  <UML2:Class name="OPTION"/>
+  <UML2:Property owner="#/125" name="valign" type="#/55"/>
+  <UML2:Association owner="#/26" name="htmlbody" memberEnd="#/27 #/109"/>
+  <UML2:Property owner="#/95" name="name" type="#/55"/>
+  <UML2:Property owner="#/73" name="border" type="#/55"/>
+  <UML2:Property owner="#/33" name="value" type="#/55"/>
+  <UML2:Property owner="#/31" name="rows" type="#/55"/>
+  <UML2:Class name="DT"/>
+  <UML2:Property owner="#/138" name="src" type="#/55"/>
+  <UML2:Property owner="#/158" name="name" type="#/55"/>
+  <UML2:Class name="NOFRAME"/>
+  <UML2:Property owner="#/64" name="align" type="#/55"/>
+  <UML2:Property owner="#/180" name="classid" type="#/55"/>
+  <UML2:Property owner="#/48" name="type" type="#/55"/>
+  <UML2:Class name="FRAME"/>
+  <UML2:Class name="LI"/>
+  <UML2:Property owner="#/64" name="class" type="#/55"/>
+  <UML2:Class name="FONT"/>
+  <UML2:Property owner="#/97" name="link" type="#/55"/>
+  <UML2:Association owner="#/26" name="headheadElements" memberEnd="#/94 #/8"/>
+  <UML2:Property owner="#/93" name="type" type="#/55"/>
+  <UML2:Property owner="#/73" name="cellpadding" type="#/55"/>
+  <UML2:Property owner="#/88" name="border" type="#/55"/>
+  <UML2:Property owner="#/125" name="tds" type="#/111" association="#/176"/>
+  <UML2:Class name="STRONG"/>
+  <UML2:Class name="LINK"/>
+  <UML2:Property owner="#/111" name="valign" type="#/55"/>
+  <UML2:Property owner="#/180" name="standby" type="#/55"/>
+  <UML2:Property owner="#/64" name="src" type="#/55"/>
+  <UML2:Class name="H4"/>
+  <UML2:Property owner="#/88" name="frameborder" type="#/55"/>
+  <UML2:Property owner="#/136" name="id" type="#/55"/>
+  <UML2:Association owner="#/26" name="tdstr" memberEnd="#/167 #/78"/>
+  <UML2:Property owner="#/73" name="width" type="#/55"/>
+  <UML2:Property owner="#/95" name="multiple" type="#/55"/>
+  <UML2:Property owner="#/133" name="start" type="#/55"/>
+  <UML2:Class name="OBJECT"/>
+  <UML2:Property owner="#/97" name="bodyElements" type="#/46" association="#/15"/>
+</xmi:XMI>

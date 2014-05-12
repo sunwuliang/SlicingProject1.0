@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsFSMspecializedAssociationsHasSameNumberOfEnds.ecore">
+  <UML2:Class/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/7 #/4"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:PrimitiveType/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/3 #/21"/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/17 #/30"/>
+  <UML2:Class/>
+  <UML2:Property/>
+  <UML2:PrimitiveType/>
+  <UML2:Class/>
+  <UML2:Association memberEnd="#/11 #/27"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/22 #/9"/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:PrimitiveType/>
+  <UML2:Property/>
+  <UML2:Property/>
+  <UML2:Association memberEnd="#/6 #/25"/>
+  <UML2:Property/>
+</xmi:XMI>

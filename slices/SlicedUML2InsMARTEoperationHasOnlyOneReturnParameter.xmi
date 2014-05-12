@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:UML2="http:///UML2.ecore" xsi:schemaLocation="http:///UML2.ecore SlicedUML2InsMARTEoperationHasOnlyOneReturnParameter.ecore">
+  <UML2:Operation>
+    <ownedParameter href="#/18"/>
+  </UML2:Operation>
+  <UML2:Operation>
+    <ownedParameter href="#/4"/>
+  </UML2:Operation>
+  <UML2:Parameter/>
+  <UML2:Parameter/>
+  <UML2:Parameter/>
+  <UML2:Parameter/>
+  <UML2:Operation>
+    <ownedParameter href="#/13"/>
+  </UML2:Operation>
+  <UML2:Operation>
+    <ownedParameter href="#/23"/>
+  </UML2:Operation>
+  <UML2:Parameter/>
+  <UML2:Operation>
+    <ownedParameter href="#/22"/>
+  </UML2:Operation>
+  <UML2:Operation/>
+  <UML2:Operation/>
+  <UML2:Parameter/>
+  <UML2:Parameter/>
+  <UML2:Operation>
+    <ownedParameter href="#/3"/>
+    <ownedParameter href="#/5"/>
+    <ownedParameter href="#/12"/>
+    <ownedParameter href="#/20"/>
+  </UML2:Operation>
+  <UML2:Parameter/>
+  <UML2:Operation>
+    <ownedParameter href="#/15"/>
+  </UML2:Operation>
+  <UML2:Parameter/>
+  <UML2:Parameter/>
+  <UML2:Parameter/>
+  <UML2:Parameter/>
+  <UML2:Operation>
+    <ownedParameter href="#/17"/>
+    <ownedParameter href="#/8"/>
+    <ownedParameter href="#/19"/>
+    <ownedParameter href="#/2"/>
+  </UML2:Operation>
+  <UML2:Parameter/>
+  <UML2:Parameter/>
+</xmi:XMI>
